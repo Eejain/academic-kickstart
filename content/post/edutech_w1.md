@@ -55,10 +55,17 @@ autoscale: true
 ## Classroom: old and new
 ![inline fill](Image/classrooms-1890s-1.jpg)![inline fill](Image/classroom.jpg)
 
-^ washington dc 1890s
+^ washington dc 1890s, both are annotomy class, what has changed, and what remained the same?
 
 ---
 ## Anything changed?
+[a mild example of E-learning: video and discussion forum](https://www.coursera.org/)
+[a more radical example: learning by doing](https://www.codecademy.com)
+[a new media: Instagram Story](https://www.instagram.com/seeduniversity/)
 
+---
+## New technogoly, old idea
+[flipped classroom](https://www.youtube.com/watch?v=iQWvc6qhTds)
 
+^ flipped classroom has never been successful, bec both instruction (bad video) and communication (eliminate interaction during instruction) are not good enough, but it's nevertheless a great idea, and maybe renovated in the future with better technology 
 

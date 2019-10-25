@@ -83,22 +83,21 @@ It will be important to follow a few general guidelines to ensure that our lesso
 
 ## Class Schedule
 
-| Dates                        | Topic                                | Presenter |
-| ---------------------        | ----------------------------------   | --------- |
-| 2019-10-17                   | Introduction                         |           |
-| 2019-10-24                   | Multi-Media Learning 1               |           |
-| 2019-11-07                   | Multi-Media Learning 2               |           |
-| 2019-11-14 (Dies academicus) | (tentative class)                    |           |
-| 2019-11-21                   | Embodied Learning (VR/AR) 1          |           |
-| 2019-11-28                   | Embodied Learning (VR/AR) 2          |           |
-| 2019-12-05                   | Game-Based Learning 1                |           |
-| 2019-12-12                   | Game-Based Learning 2                |           |
-| 2019-12-19                   | Personalized and Adaptive Learning 1 |           |
-| 2020-01-09                   | Personalized and Adaptive Learning 2 |           |
-| 2020-01-16                   | Child Development and Technology 1   |           |
-| 2020-01-23                   | Child Development and Technology 2   |           |
-| 2020-01-30                   | Cloud-Based Learning 1               |           |
-| 2020-02-06                   | Cloud-Based Learning 2               |           |
+| Dates                 | Topic                                | Presenter |
+| --------------------- | ----------------------------------   | --------- |
+| 2019-10-17            | Introduction                         |           |
+| 2019-10-24            | Multi-Media Learning 1               |           |
+| 2019-11-07            | Multi-Media Learning 2               |           |
+| 2019-11-21            | Embodied Learning (VR/AR) 1          |           |
+| 2019-11-28            | Embodied Learning (VR/AR) 2          |           |
+| 2019-12-05            | Game-Based Learning 1                |           |
+| 2019-12-12            | Game-Based Learning 2                |           |
+| 2019-12-19            | Personalized and Adaptive Learning 1 |           |
+| 2020-01-09            | Personalized and Adaptive Learning 2 |           |
+| 2020-01-16            | Child Development and Technology 1   |           |
+| 2020-01-23            | Child Development and Technology 2   |           |
+| 2020-01-30            | Cloud-Based Learning 1               |           |
+| 2020-02-06            | Cloud-Based Learning 2               |           |
 
 
 

@@ -18,34 +18,36 @@ date_format = "January 2, 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Introduction"
-  company = ""
-  company_url = ""
+  title = ""
+  company = "Introduction"
+  company_url = "https://edutech.netlify.com/post/edutech_w1_post/"
   location = ""
   date_start = "2019-10-17"
   date_end = "2019-10-17"
   description = """
- 
+ The requirement and format of this seminar.
   """
 
 [[experience]]
-  title = "Multi-Media Learning"
-  company = ""
-  company_url = ""
+  title = ""
+  company = "Multi-Media Learning"
+  company_url = "https://edutech.netlify.com/tags/multimedia_learning/"
   location = ""
   date_start = "2019-10-24"
   date_end = "2019-11-07"
   description = """
+  Dynamic (animation, video, interaction media) or static (still picture, written text) media, which one suits best for your content?
   """
 
 [[experience]]
-title = "Embodied Learning"
-company = ""
+title = ""
+company = "Embodied Learning"
 company_url = ""
 location = ""
 date_start = "2019-11-21"
 date_end = "2019-11-28"
 description = """
+Learning from a different reality (virtual/augmented reality).
 """
 
 [[experience]]
@@ -56,6 +58,7 @@ location = ""
 date_start = "2019-12-05"
 date_end = "2019-12-12"
 description = """
+Can we make learning more like a game?
 """
 
 [[experience]]
@@ -66,6 +69,7 @@ location = ""
 date_start = "2019-12-19"
 date_end = "2020-01-09"
 description = """
+How does AI and "big data" help with the personalization and democratization of education?
 """
 
 [[experience]]
@@ -76,6 +80,7 @@ location = ""
 date_start = "2020-01-16"
 date_end = "2020-01-23"
 description = """
+Screen addiction? How does technology affect children's growth.
 """
 
 [[experience]]
@@ -86,6 +91,7 @@ location = ""
 date_start = "2020-01-30"
 date_end = "2020-02-06"
 description = """
+Webinar, MOOC, and other forms of large-scale online learning. 
 """
 
 +++
