@@ -16,6 +16,7 @@ Updated: 2019-10-17
 - **Time**: 14:00 - 16:00, Thursdays (2019-10-17 – 2020-02-06)
 - **Location**: 2.31 0.18 
 - **Course Site**: https://edutech.netlify.com/
+- **Course Site Repository**: https://github.com/Eejain/edutech
 - **Course Channel**: https://discord.gg/e3VpXtv
 - **Modules**: 
     -   BM-BA-S4: Schultheorie und Bildungsforschung  
