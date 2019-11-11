@@ -3,7 +3,7 @@ autoscale: true
 [.footer: [educomp]: 2019-10-24, Yizhen Huang]
 
 ### *Education on the Horizon: Teaching and Learning with Technology*
-## Week 2: Multimedia Learning
+## Week 2: Multimedia Learning Pt. 1
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
@@ -39,7 +39,7 @@ autoscale: true
 ---
 ## What is multimedia learning
 - Present the material using various media types that are intended to foster learning.
-- Types of media: text, audio, static graphic (photos, drawings, maps, charts, figures), dynamic graphic (video, animation)
+- Types of media: text, audio, static graphic (photos, drawings, maps, charts, figures), dynamic graphic (video, animation), or any other vehicle of information
 
 ---
 ## Why is it an attractive idea?

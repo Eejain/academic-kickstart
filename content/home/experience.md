@@ -40,8 +40,8 @@ date_format = "January 2, 2006"
   """
 
 [[experience]]
-title = ""
-company = "Embodied Learning"
+title = "Game-Based Learning"
+company = ""
 company_url = ""
 location = ""
 date_start = "2019-11-21"
@@ -51,7 +51,7 @@ Learning from a different reality (virtual/augmented reality).
 """
 
 [[experience]]
-title = "Game-Based Learning"
+title = "Embodied Learning"
 company = ""
 company_url = ""
 location = ""
