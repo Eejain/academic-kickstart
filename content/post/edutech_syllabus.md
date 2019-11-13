@@ -8,12 +8,12 @@ commentable: true
 comments: true
 ---
 
-Updated: 2019-11-07
+Updated: 2019-11-13
 
 ## Course Information
 - **Title**: Education on the Horizon: Teaching and Learning with Technology Syllabus
 - **Semester**: Winter 2019
-- *k*Time**: 14:00 - 16:00, Thursdays (2019-10-17 – 2020-02-06)
+- **Time**: 14:00 - 16:00, Thursdays (2019-10-17 – 2020-02-06)
 - **Location**: 2.31 0.18 
 - **Course Site**: https://edutech.netlify.com/
 - **Course Site Repository**: https://github.com/Eejain/edutech
