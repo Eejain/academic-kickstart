@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Content"
-  url = "post/content_table/"
+  url = "https://edutech.netlify.com/tags/slides/"
   weight = 30
 
 [[main]]

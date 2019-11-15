@@ -18,7 +18,7 @@ Updated: 2019-11-13
 - **Course Site**: https://edutech.netlify.com/
 - **Course Site Repository**: https://github.com/Eejain/edutech
 - **Course Channel**: https://discord.gg/e3VpXtv
-- **Modules**: 
+- **Modules**: 4
     -   BM-BA-S4: Schultheorie und Bildungsforschung  
     -   M 4 - Schule und Unterricht: Analyse, Entwicklung, Evaluation 
     -   Wahlpflichtmodul 1: Bildung im schulischen Kontext  
@@ -99,9 +99,6 @@ It will be important to follow a few general guidelines to ensure that our lesso
 | 2020-01-23            | Child Development and Technology 2   | Johanna, Luisa, Natascha |
 | 2020-01-30            | Cloud-Based Learning 1               | None                     |
 | 2020-02-06            | Cloud-Based Learning 2               | Brian, Daniel            |
-
-
-
 
 
 
