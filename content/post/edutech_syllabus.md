@@ -94,7 +94,7 @@ It will be important to follow a few general guidelines to ensure that our lesso
 | 2019-12-05            | Embodied Learning (VR/AR) 1          | None                     |
 | 2019-12-12            | Embodied Learning (VR/AR) 2          | Johannes, Josephine      |
 | 2019-12-19            | Personalized and Adaptive Learning 1 | None                     |
-| 2020-01-09            | Personalized and Adaptive Learning 2 | Sophie, Jenny, Eric      |
+| 2020-01-09            | Personalized and Adaptive Learning 2 | Sophie, Jenny, Eric, Frithjoff      |
 | 2020-01-16            | Child Development and Technology 1   | None                     |
 | 2020-01-23            | Child Development and Technology 2   | Johanna, Luisa, Natascha |
 | 2020-01-30            | Cloud-Based Learning 1               | None                     |
