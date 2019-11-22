@@ -36,7 +36,7 @@ slides:
 <!-- some of the features are superficial, some are fundamental-->
 
 ---
-Your thoughts on game: competitive, rule/goal, fun, group/individual activity, problem-solving,  become better at the game, win/lose, different types, 
+Your thoughts on game: competitive, rule/goal, fun, group/individual activity, problem-solving,  become better at the game, win/lose, different types 
 
 ---
 ###  Can we implement gameful elements in education, and why?

@@ -84,21 +84,21 @@ It will be important to follow a few general guidelines to ensure that our lesso
 
 ## Class Schedule
 
-| Dates                 | Topic                                | Presenter                |
-| --------------------- | ----------------------------------   | ---------                |
-| 2019-10-17            | Introduction                         | None                     |
-| 2019-10-24            | Multi-Media Learning 1               | None                     |
-| 2019-11-07            | Multi-Media Learning 2               | None                     |
-| 2019-11-21            | Game-Based Learning 1                | None                     |
-| 2019-11-28            | Game-Based Learning 2                | Nursel, Leonie, Ahmi     |
-| 2019-12-05            | Embodied Learning (VR/AR) 1          | None                     |
-| 2019-12-12            | Embodied Learning (VR/AR) 2          | Johannes, Josephine      |
-| 2019-12-19            | Personalized and Adaptive Learning 1 | None                     |
-| 2020-01-09            | Personalized and Adaptive Learning 2 | Sophie, Jenny, Eric, Frithjoff      |
-| 2020-01-16            | Child Development and Technology 1   | None                     |
-| 2020-01-23            | Child Development and Technology 2   | Johanna, Luisa, Natascha |
-| 2020-01-30            | Cloud-Based Learning 1               | None                     |
-| 2020-02-06            | Cloud-Based Learning 2               | Brian, Daniel            |
+| Dates                 | Topic                                | Presenter                      |
+| --------------------- | ----------------------------------   | ---------                      |
+| 2019-10-17            | Introduction                         | None                           |
+| 2019-10-24            | Multi-Media Learning 1               | None                           |
+| 2019-11-07            | Multi-Media Learning 2               | None                           |
+| 2019-11-21            | Game-Based Learning 1                | None                           |
+| 2019-11-28            | Game-Based Learning 2                | Nursel, Leonie, Ahmi           |
+| 2019-12-05            | Embodied Learning (VR/AR) 1          | None                           |
+| 2019-12-12            | Embodied Learning (VR/AR) 2          | Johannes       |
+| 2019-12-19            | Personalized and Adaptive Learning 1 | None                           |
+| 2020-01-09            | Personalized and Adaptive Learning 2 | Sophie, Jenny, Eric, Frithjoff |
+| 2020-01-16            | Child Development and Technology 1   | None                           |
+| 2020-01-23            | Child Development and Technology 2   | Johanna, Luisa, Natascha       |
+| 2020-01-30            | Cloud-Based Learning 1               | None                           |
+| 2020-02-06            | Cloud-Based Learning 2               | Brian, Daniel                  |
 
 
 
