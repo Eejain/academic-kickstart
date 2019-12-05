@@ -111,27 +111,9 @@ Your thoughts on game: competitive, rule/goal, fun, group/individual activity, p
 
 
 ---
-###  Why do you want to play a game, not to a class?
-
----
-### Motivation, the force that drives us
-
-- Behavior is motivated by internal (intrinsic) or external (extrinsic) incentives 
-    - Extrinsic – attention, praise, grades, rewards, money etc.
-    - Intrinsic – feeling of satisfaction, competence, growth, progress etc.
-        - [Dan Pink's Talk on Motivation](https://www.youtube.com/watch?v=u6XAPnuFjJc)
-
----
-####  Why do you want to play a game, not to a class?
-
-- Autonomy: it's your own choice to play a game
-- Mastery: you know for sure you can become better at playing the game
-- Meaning: ?
-
----
 ### Take-home points
 
 - Gameful learning environment ≠ Learning in video games
 - It's about using the psychological principles behind good games to motive students 
-- We can learn from games about how to reinforce/punish student's learning process
+- We can learn from games about how to reinforce student's learning process
 
