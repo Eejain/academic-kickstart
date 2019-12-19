@@ -40,31 +40,31 @@ date_format = "January 2, 2006"
   """
 
 [[experience]]
-title = "Game-Based Learning"
-company = ""
-company_url = ""
+title = ""
+company = "Game-Based Learning"
+company_url = "https://edutech.netlify.com/tags/GameBased_Learning/"
 location = ""
 date_start = "2019-11-21"
 date_end = "2019-11-28"
-description = """
-Learning from a different reality (virtual/augmented reality).
-"""
-
-[[experience]]
-title = "Embodied Learning"
-company = ""
-company_url = ""
-location = ""
-date_start = "2019-12-05"
-date_end = "2019-12-12"
 description = """
 Can we make learning more like a game?
 """
 
 [[experience]]
-title = "Personalized and Adaptive Learning"
-company = ""
-company_url = ""
+title = ""
+company = "Embodied Learning"
+company_url = "https://edutech.netlify.com/tags/Embodied_Learning/"
+location = ""
+date_start = "2019-12-05"
+date_end = "2019-12-12"
+description = """
+Learning from a different reality (virtual/augmented reality).
+"""
+
+[[experience]]
+title = ""
+company = "Personalized and Adaptive Learning"
+company_url = "https://edutech.netlify.com/tags/Personalized_Learning/"
 location = ""
 date_start = "2019-12-19"
 date_end = "2020-01-09"
@@ -73,9 +73,9 @@ How does AI and "big data" help with the personalization and democratization of 
 """
 
 [[experience]]
-title = "Child Development and Technology"
-company = ""
-company_url = ""
+title = ""
+company = "Child Development and Technology"
+company_url = "https://edutech.netlify.com/tags/ChildDevelopment/"
 location = ""
 date_start = "2020-01-16"
 date_end = "2020-01-23"
@@ -84,9 +84,9 @@ Screen addiction? How does technology affect children's growth.
 """
 
 [[experience]]
-title = "Cloud-Based Learning"
-company = ""
-company_url = ""
+title = ""
+company = "Cloud-Based Learning"
+company_url = "https://edutech.netlify.com/tags/CloudBased_Learning/"
 location = ""
 date_start = "2020-01-30"
 date_end = "2020-02-06"
