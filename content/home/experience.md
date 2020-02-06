@@ -31,7 +31,7 @@ date_format = "January 2, 2006"
 [[experience]]
   title = ""
   company = "Multi-Media Learning"
-  company_url = "https://edutech.netlify.com/tags/multimedia_learning/"
+  company_url = "https://edutech.netlify.com/tags/Multimedia_learning/"
   location = ""
   date_start = "2019-10-24"
   date_end = "2019-11-07"
@@ -75,7 +75,7 @@ How does AI and "big data" help with the personalization and democratization of 
 [[experience]]
 title = ""
 company = "Child Development and Technology"
-company_url = "https://edutech.netlify.com/tags/ChildDevelopment/"
+company_url = "https://edutech.netlify.com/tags/Children_Tech/"
 location = ""
 date_start = "2020-01-16"
 date_end = "2020-01-23"
@@ -86,12 +86,12 @@ Screen addiction? How does technology affect children's growth.
 [[experience]]
 title = ""
 company = "Cloud-Based Learning"
-company_url = "https://edutech.netlify.com/tags/CloudBased_Learning/"
+company_url = "https://edutech.netlify.com/tags/Cloud_Learning/"
 location = ""
 date_start = "2020-01-30"
 date_end = "2020-02-06"
 description = """
-Webinar, MOOC, and other forms of large-scale online learning. 
+Webinar, MOOC, and other forms of online learning. 
 """
 
 +++
