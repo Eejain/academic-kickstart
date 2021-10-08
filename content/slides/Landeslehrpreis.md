@@ -65,21 +65,17 @@ slides:
 ---
 ### Discord Discussion Screenshot
 
-![share resources](img/discord1.png)
+![share resources](/media/discord1.png)
 
 ---
 ### Discord Discussion Screenshot
 
-![share opinions](img/discord2.png)
+![share opinions](/media/discord2.png)
 
 ---
-### Sample Final Presentation 1
+### Sample Final Presentation
 - https://miro.com/app/board/o9J_l6QydQE=/
 
----
-### Sample Final Presentation 2
-
-link: files/GamebasedLearning_Presentation.pdf
 
 ---
 ### Workflow: From Instructor's Perspective
