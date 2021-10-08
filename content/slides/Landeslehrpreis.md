@@ -63,26 +63,31 @@ slides:
 <!-- ![](/img/ardemo.jpg) -->
 
 ---
-#### Discord Discussion Screenshot
+### Discord Discussion Screenshot
 
-![](img/discord1.png)
+![share resources](img/discord1.png)
 
 ---
-###  Sample Final Presentation 1
+### Discord Discussion Screenshot
+
+![share opinions](img/discord2.png)
+
+---
+### Sample Final Presentation 1
 - https://miro.com/app/board/o9J_l6QydQE=/
 
 ---
-###  Sample Final Presentation 1
+### Sample Final Presentation 2
 
 link: files/GamebasedLearning_Presentation.pdf
 
 ---
-#### ⏱ Workflow: instructor's perspective
-- Participate and moderate on-line discussions
-- Prepare course content in simple text file
-    - Text file is automatically updated and compiled to presentation slides: reveal.js
+### Workflow: From Instructor's Perspective
+- Individually: prepare course content in plain text (.md)
+    - Text files are automatically updated and compiled to presentation slides through reveal.js
     - All the updates are instantly visible on the website to everyone: Hugo + Git
-- Lecture and moderate discussions
+- In group: lecture and moderate discussions during online meeting
+- In group: participate and moderate on-line discussions
 
 <aside class="notes">
       git benefits: transparent change log (what has been changed and why),automatically synced between all participants' devices, automatically reflects on the course website, eventually evrything is always up to date all the time for all parties. 
