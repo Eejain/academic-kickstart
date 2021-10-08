@@ -65,12 +65,12 @@ slides:
 ---
 ### Discord Discussion Screenshot
 
-![share resources](/media/discord1.png)
+![share resources](/media/discord1.jpg)
 
 ---
 ### Discord Discussion Screenshot
 
-![share opinions](/media/discord2.png)
+![share opinions](/media/discord2.jpg)
 
 ---
 ### Sample Final Presentation
