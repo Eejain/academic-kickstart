@@ -1,8 +1,8 @@
 ---
-title: Study Innovation Prize 2020 
-summary: My presentation for Study Innovation Prize
+title: Landeslehrpreis  2021
+summary: My presentation for Landeslehrpreis
 authors: ["admin"]
-date: 2020-02-04
+date: 2021-10-01
 tags: ["Slides"]
 commentable: true
 comments: true
@@ -12,18 +12,19 @@ slides:
   highlight_style: dracula
 ---
 
-#### *Study Innovation Prize 2020*
-### A Seminar Facilitated by `Git` and `Discord`
+#### *Landeslehrpreis 2021*
+### EDUTECH: An ed-tech seminar facilitated by `Git` and `Discord`
 ===
 ###### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, Universität Potsdam
-###### 2020-02-05
+###### 2021-10-01
 
 ---
 ### 🗒 Course Overview 
-- A weekly discussion-based seminar 
-- Twenty student teachers
-- Focus on the usage of technology in education
+- A weekly discussion-based seminar hold online 
+- Discussion took place both synchronously (video meeting) and asynchronously (text-based) 
+- 15 student teachers participated
+- Focusd on the application of information and communications technology (ICT) in education
 
 ---
 ### 🖥 Course Topics 
@@ -33,24 +34,47 @@ slides:
 - Personalized and Adaptive Learning with AI
 - Child Development and Technology
 - Cloud-Based Learning
+- Lesson-Design with Technology
 
 <!-- covers both theory and application -->
 
 ---
 ### 💫 Design Philosophy 
 
-![](/img/edutech.png)
+![](/img/edutech.jpg)
 
 ---
-#### ⏱ Workflow: student's perspective
+### 🎯 Competence Goals
 
-- Participate in Discord discussions
-- Attend seminar: in-class discussion, project-based learning 
+![http://tpack.org/](/img/TPACK-new.png)
+
+- evaulated through project-based group presentation
 
 ---
-###  How big are 2㎡? 
+### Workflow: From Student's Perspective
 
-![](/img/ardemo.jpg)
+- In group: attend weekly online meeting synchronously
+- Individually: explore and annotate the website content
+- In group: participate in Discord discussions asynchronously
+
+<!-- --- -->
+<!-- ###  How big are 2㎡?  -->
+
+<!-- ![](/img/ardemo.jpg) -->
+
+---
+#### Discord Discussion Screenshot
+
+![](img/discord1.png)
+
+---
+###  Sample Final Presentation 1
+- https://miro.com/app/board/o9J_l6QydQE=/
+
+---
+###  Sample Final Presentation 1
+
+link: files/GamebasedLearning_Presentation.pdf
 
 ---
 #### ⏱ Workflow: instructor's perspective
