@@ -39,7 +39,7 @@ slides:
 ---
 ## Course Goal: Method 💫
 
-![](/img/edutech.png)
+![](/media/edutech.png)
 
 ---
 ## Workflow
@@ -56,4 +56,4 @@ slides:
 
 
 ---
-![](/img/edutech_snap.png)
+![](/media/edutech_snap.png)

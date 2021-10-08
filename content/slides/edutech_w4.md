@@ -31,7 +31,7 @@ slides:
 
 ----
 ## Can you describe what is a *game*?
-![](/img/game.png)
+![](/media/game.png)
 
 <!-- some of the features are superficial, some are fundamental-->
 

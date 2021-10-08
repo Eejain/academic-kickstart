@@ -43,22 +43,22 @@ slides:
 - Each slide will only be shown for 5 seconds
 
 ---
-![](/img/wm1.png)
+![](/media/wm1.png)
 
 ---
-![](/img/wm2.png)
+![](/media/wm2.png)
 
 ---
-![](/img/wm3.png)
+![](/media/wm3.png)
 
 ---
-![](/img/wm4.png)
+![](/media/wm4.png)
 
 ---
-![](/img/wm5.png)
+![](/media/wm5.png)
 
 ---
-![](/img/wm6.png)
+![](/media/wm6.png)
 
 ---
 Now write down the words in order 

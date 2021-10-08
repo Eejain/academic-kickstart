@@ -1,10 +1,6 @@
 ---
 # Display name
-name: Yizhen (Eejain) Huang
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Yizhen (Eejain) Huang
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,11 +47,8 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 

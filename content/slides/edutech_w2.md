@@ -35,7 +35,7 @@ slides:
 - Media are tools used to store and deliver information or data
 - Multimedia are communications that incorporate multiple forms of information content and processing
 
-![](/img/media.jpg)
+![](/media/media.jpg)
 
 ---
 ### Medium is like the *vehicle* of information. 
@@ -43,7 +43,7 @@ slides:
 
 ---
 ### You can convey similar content with different media
-![](/img/different-transportation.png)
+![](/media/different-transportation.png)
 
 ---
 ### What is multimedia learning
@@ -66,13 +66,13 @@ slides:
 ### Example 1. How would you explain how a *smart phone* works?
 
 ---
-![](/img/cellphone.png)
+![](/media/cellphone.png)
 
 ---
 ### Example 2. How do you decide what to wear?
 
 ---
-![](/img/decisiontree2.png)
+![](/media/decisiontree2.png)
 
 ---
 ### Visual over words

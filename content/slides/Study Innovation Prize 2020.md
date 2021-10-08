@@ -39,7 +39,7 @@ slides:
 ---
 ### 💫 Design Philosophy 
 
-![](/img/edutech.png)
+![](/media/edutech.png)
 
 ---
 #### ⏱ Workflow: student's perspective
@@ -50,7 +50,7 @@ slides:
 ---
 ###  How big are 2㎡? 
 
-![](/img/ardemo.jpg)
+![](/media/ardemo.jpg)
 
 ---
 #### ⏱ Workflow: instructor's perspective
@@ -66,11 +66,11 @@ slides:
 
 
 ---
-![](/img/edutech_snap.png)
+![](/media/edutech_snap.png)
 
 ---
 ### 💫 Design Philosophy 
 
-![](/img/edutech.png)
+![](/media/edutech.png)
 
  

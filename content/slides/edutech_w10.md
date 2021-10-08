@@ -27,11 +27,11 @@ slides:
 
 ---
 
-![](/img/phubber.png)
+![](/media/phubber.png)
 
 ---
 
-![](/img/phubber2.png)
+![](/media/phubber2.png)
 
 ---
 ###  Why do we care more about children's digital usage?
@@ -53,7 +53,7 @@ slides:
 ###  A word of caution
 - All the medium had been criticized at some point
 - Even the [books](https://www.historytoday.com/archive/reading-bad-your-health)!
-![](/img/book.png)
+![](/media/book.png)
 
 ---
 ###  Blame the content, not the medium
@@ -74,35 +74,35 @@ slides:
 
 ---
 
-![](/img/piaget.png)
+![](/media/piaget.png)
 
 <!-- piaget differentiate these stages by the type of knowledge the children acquired. action knowledge, symbolic knowledge,  abstract knowledge and propositional knowledge. it's easier to remember the key task that children can achive if they concur the stage (like rpg character)
  -->
 ---
 ### Sensorimotor stage: Object permanence
 
-![](/img/peekaboo.jpg)
+![](/media/peekaboo.jpg)
 - [peekaboo](https://www.youtube.com/watch?v=YYG8ronqFVA)
 
 ---
 ### Pre-operational stage: Theory of mind
 
-![](/img/tom.jpg)
+![](/media/tom.jpg)
 
 ---
 ### Three mountain experiment
 
-![](/img/3mountain.jpg)
+![](/media/3mountain.jpg)
 
 ---
 ### Concrete operational stage: Conservation problem
 
-![](/img/conservationprob.jpg)
+![](/media/conservationprob.jpg)
 
 ---
 ### Formal operational stage: Abstract reasoning
 
-![](/img/formula.png)
+![](/media/formula.png)
 
 ---
 Patricia is upset because she is convinced that her brother has a bigger piece of cake than she does. Her dad quickly slices Patricia's piece of cake in two and tells her that she now has "more" cake. If Patricia calms down and is convinced that she does have more cake than her brother, it would suggest that she
@@ -126,6 +126,6 @@ And at what stage she will be acquiring that ability?
 - Goldilock's zone:
     - Too difficult → frustrated and anxious
     - Too easy → bored and unengaged
-![](/img/goldilocks.png)
+![](/media/goldilocks.png)
 
 

@@ -41,12 +41,12 @@ slides:
 ---
 ### 💫 Design Philosophy 
 
-![](/img/edutech.jpg)
+![](/media/edutech.jpg)
 
 ---
 ### 🎯 Competence Goals
 
-![http://tpack.org/](/img/TPACK-new.png)
+![http://tpack.org/](/media/TPACK-new.png)
 
 - evaulated through project-based group presentation
 
@@ -60,7 +60,7 @@ slides:
 <!-- --- -->
 <!-- ###  How big are 2㎡?  -->
 
-<!-- ![](/img/ardemo.jpg) -->
+<!-- ![](/media/ardemo.jpg) -->
 
 ---
 ### Discord Discussion Screenshot
@@ -83,23 +83,24 @@ link: files/GamebasedLearning_Presentation.pdf
 
 ---
 ### Workflow: From Instructor's Perspective
-- Individually: prepare course content in plain text (.md)
-    - Text files are automatically updated and compiled to presentation slides through reveal.js
+- Individually: prepare course content in plain text (markdown format)
+    - Text files are automatically updated and compiled to presentation slides: 
     - All the updates are instantly visible on the website to everyone: Hugo + Git
 - In group: lecture and moderate discussions during online meeting
 - In group: participate and moderate on-line discussions
 
 <aside class="notes">
-      git benefits: transparent change log (what has been changed and why),automatically synced between all participants' devices, automatically reflects on the course website, eventually evrything is always up to date all the time for all parties. 
+      git benefits: transparent change log (what has been changed and why),automatically synced between all participants' devices, automatically reflects on the course website, eventually everything is always up to date all the time for all parties. 
 </aside>
 
+---
+### Backend
+
+![](/media/edutech_snap.png)
 
 ---
-![](/img/edutech_snap.png)
+### 💫 Again: Design Philosophy 
 
----
-### 💫 Design Philosophy 
-
-![](/img/edutech.png)
+![](/media/edutech.png)
 
  

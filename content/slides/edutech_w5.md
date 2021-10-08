@@ -71,11 +71,11 @@ slides:
 
 ---
 ### Competence: example
-![](/img/pokemonbadge.png)
+![](/media/pokemonbadge.png)
 
 ---
 ### Competence: example
-![](/img/khanbadge.png)
+![](/media/khanbadge.png)
 
 <!-- They are not designed to manipulate students to fish for prizes, but to show clearly what’s the progress, and what to do next -->
 

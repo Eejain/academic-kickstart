@@ -86,7 +86,7 @@ Social media platforms
 
 ---
 ###  Hypes
-![](/img/moochype.jpg)
+![](/media/moochype.jpg)
 
 ---
 ###  Criticisms 

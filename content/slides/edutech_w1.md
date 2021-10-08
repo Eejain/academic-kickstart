@@ -35,7 +35,7 @@ slides:
 ---
 > # Where have I been?
 
-<section data-background-image="/img/earth.jpg" >
+<section data-background-image="/media/earth.jpg" >
 </section>
 
 ---
@@ -57,8 +57,8 @@ Erziehungswissenschaft, Bildungswissenschaften, Universität Potsdam
 
 Visual cognition and learning/teaching
 
-![](/img/vrclass2.png)
-![](/img/examp.jpg)
+![](/media/vrclass2.png)
+![](/media/examp.jpg)
 
 ---
 
@@ -81,12 +81,12 @@ Data analysis and visualization for learning analytics
 <div class="multicol">
 
 <div class="col_l">
-      <img src="/img/ScatterPlot.jpg" > 
+      <img src="/media/ScatterPlot.jpg" > 
 </div>
 
 <div class="col_r">
 <section>
-      <img src="/img/Picture1.png" > 
+      <img src="/media/Picture1.png" > 
 </section>
 </div>
 
@@ -99,12 +99,12 @@ Data analysis and visualization for learning analytics
 <div class="multicol">
 
 <div class="col_l">
-      <img src="/img/pic1.jpg" > 
+      <img src="/media/pic1.jpg" > 
 </div>
 
 <div class="col_r">
 <section>
-      <img src="/img/pic2.jpg" > 
+      <img src="/media/pic2.jpg" > 
 </section>
 </div>
 
@@ -117,12 +117,12 @@ Data analysis and visualization for learning analytics
 <div class="multicol">
 
 <div class="col_l">
-      <img src="/img/classrooms-1890s-1.jpg" > 
+      <img src="/media/classrooms-1890s-1.jpg" > 
 </div>
 
 <div class="col_r">
 <section>
-      <img src="/img/classroom.jpg" > 
+      <img src="/media/classroom.jpg" > 
 </section>
 </div>
 

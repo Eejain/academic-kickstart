@@ -1,97 +1,91 @@
-+++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
 
-title = "Timeline"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Timeline
+subtitle:
 
 # Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2, 2006"
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = ""
-  company = "Introduction"
-  company_url = "https://edutech.netlify.com/post/edutech_w1_post/"
-  location = ""
-  date_start = "2019-10-17"
-  date_end = "2019-10-17"
-  description = """
- The requirement and format of this seminar.
-  """
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title:
+    company: Introduction
+    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    location: 
+    date_start: '2021-10-25'
+    date_end: '2021-10-25'
+    description: 
 
-[[experience]]
-  title = ""
-  company = "Multi-Media Learning"
-  company_url = "https://edutech.netlify.com/tags/Multimedia_learning/"
-  location = ""
-  date_start = "2019-10-24"
-  date_end = "2019-11-07"
-  description = """
-  Dynamic (animation, video, interaction media) or static (still picture, written text) media, which one suits best for your content?
-  """
+  - title:
+    company: Multi-Media Learning
+    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    location: 
+    date_start: '2021-11-01'
+    date_end: '2021-11-08'
+    description: 
 
-[[experience]]
-title = ""
-company = "Game-Based Learning"
-company_url = "https://edutech.netlify.com/tags/GameBased_Learning/"
-location = ""
-date_start = "2019-11-21"
-date_end = "2019-11-28"
-description = """
-Can we make learning more like a game?
-"""
+  - title:
+    company: Game-Based Learning
+    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    location: 
+    date_start: '2021-11-15'
+    date_end: '2021-11-22'
+    description: 
 
-[[experience]]
-title = ""
-company = "Embodied Learning"
-company_url = "https://edutech.netlify.com/tags/Embodied_Learning/"
-location = ""
-date_start = "2019-12-05"
-date_end = "2019-12-12"
-description = """
-Learning from a different reality (virtual/augmented reality).
-"""
+  - title:
+    company: Embodied Learning (VR/AR)
+    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    location: 
+    date_start: '2021-11-29'
+    date_end: '2021-12-06'
+    description: 
 
-[[experience]]
-title = ""
-company = "Personalized and Adaptive Learning"
-company_url = "https://edutech.netlify.com/tags/Personalized_Learning/"
-location = ""
-date_start = "2019-12-19"
-date_end = "2020-01-09"
-description = """
-How does AI and "big data" help with the personalization and democratization of education?
-"""
+  - title:
+    company: Personalized and Adaptive Learning
+    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    location: 
+    date_start: '2021-12-13'
+    date_end: '2022-01-03'
+    description: 
 
-[[experience]]
-title = ""
-company = "Child Development and Technology"
-company_url = "https://edutech.netlify.com/tags/Children_Tech/"
-location = ""
-date_start = "2020-01-16"
-date_end = "2020-01-23"
-description = """
-Screen addiction? How does technology affect children's growth.
-"""
+  - title:
+    company: Child Development and Technology
+    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    location: 
+    date_start: '2022-01-10'
+    date_end: '2022-01-17'
+    description: 
 
-[[experience]]
-title = ""
-company = "Cloud-Based Learning"
-company_url = "https://edutech.netlify.com/tags/Cloud_Learning/"
-location = ""
-date_start = "2020-01-30"
-date_end = "2020-02-06"
-description = """
-Webinar, MOOC, and other forms of online learning. 
-"""
+  - title:
+    company: Cloud-Based Learning
+    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    location: 
+    date_start: '2022-01-24'
+    date_end: '2022-01-31'
+    description: 
 
-+++
+  - title:
+    company: Lesson Design with Technology 
+    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    location: 
+    date_start: '2022-02-07'
+    date_end: '2022-02-14'
+    description: 
+
+design:
+  columns: '2'
+---

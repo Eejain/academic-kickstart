@@ -24,7 +24,7 @@ slides:
 
 ---
 ###  Mixed Reality
-![](/img/RV.jpg)
+![](/media/RV.jpg)
 
 - Mixed Reality (MR) : real and virtual world objects are presented and experienced together within a single display.
 
