@@ -3,7 +3,7 @@ title: E-Learning Tag 2019
 summary: My presentation on E-Learning Tag about this course
 authors: ["admin"]
 date: 2019-11-14
-tags: ["Slides"]
+tags: ["slides"]
 commentable: true
 comments: true
 slides:

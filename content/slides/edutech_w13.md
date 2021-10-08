@@ -4,7 +4,7 @@ title: Week 13
 summary: Slides for Cloud-based Learning Pt. 2
 authors: ["admin"]
 date: 2020-02-06
-tags: ["Cloud_learning","Slides"] 
+tags: ["Cloud_Learning", "Slides"] 
 commentable: true
 comments: true
 slides:

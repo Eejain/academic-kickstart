@@ -4,7 +4,7 @@ title: Week 12
 summary: Slides for Cloud-based Learning Pt. 1
 authors: ["admin"]
 date: 2020-01-30
-tags: ["Cloud_learning","Slides"] 
+tags: ["Cloud_Learning", "Slides"] 
 commentable: true
 comments: true
 slides:

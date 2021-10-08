@@ -4,7 +4,7 @@ title: Week 11
 summary: Slides for Child Development and Technology Pt. 2
 authors: ["admin"]
 date: 2020-01-23
-tags: ["Children_Tech","Slides"] 
+tags: ["Children_Tech", "Slides"] 
 commentable: true
 comments: true
 slides:

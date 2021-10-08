@@ -3,7 +3,7 @@ title: Week 6
 summary: Slides for Embodied Learning Pt. 1
 authors: ["admin"]
 date: 2019-12-05
-tags: ["Embodied_Learning","Slides"]
+tags: ["Embodied_Learning", "Slides"]
 commentable: true
 comments: true
 slides:

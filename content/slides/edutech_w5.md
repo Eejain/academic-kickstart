@@ -3,7 +3,7 @@ title: Week 5
 summary: Slides for Game-Based Learning Pt. 2
 authors: ["admin"]
 date: 2019-11-28
-tags: ["GameBased_Learning","Slides"]
+tags: ["GameBased_Learning", "Slides"]
 commentable: true
 comments: true
 slides:
