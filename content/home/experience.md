@@ -24,66 +24,66 @@ date_format: January 2, 2006
 experience:
   - title:
     company: Introduction
-    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    company_url: 'https://edutech.netlify.app/slides/edutech_w1/'
     location: 
     date_start: '2021-10-25'
     date_end: '2021-10-25'
     description: 
 
   - title:
-    company: Multi-Media Learning
-    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    company: Evaluate ICT
+    company_url: 'https://edutech.netlify.app/slides/edutech_w2/'
     location: 
     date_start: '2021-11-01'
-    date_end: '2021-11-08'
+    date_end: '2021-11-01'
+    description: 
+
+  - title:
+    company: Multi-Media Learning
+    company_url: 'https://edutech.netlify.app/slides/edutech_w3/'
+    location: 
+    date_start: '2021-11-01'
+    date_end: '2021-11-15'
     description: 
 
   - title:
     company: Game-Based Learning
-    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    company_url: 'https://edutech.netlify.app/slides/edutech_w5/'
     location: 
-    date_start: '2021-11-15'
-    date_end: '2021-11-22'
+    date_start: '2021-11-22'
+    date_end: '2021-11-29'
     description: 
 
   - title:
     company: Embodied Learning (VR/AR)
-    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    company_url: 'https://edutech.netlify.app/slides/edutech_w7/'
     location: 
-    date_start: '2021-11-29'
-    date_end: '2021-12-06'
+    date_start: '2021-12-06'
+    date_end: '2021-12-13'
     description: 
 
   - title:
     company: Personalized and Adaptive Learning
-    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    company_url: 'https://edutech.netlify.app/slides/edutech_w9/'
     location: 
-    date_start: '2021-12-13'
-    date_end: '2022-01-03'
+    date_start: '2022-01-03'
+    date_end: '2022-01-10'
     description: 
 
   - title:
     company: Child Development and Technology
-    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    company_url: 'https://edutech.netlify.app/slides/edutech_w11/'
     location: 
-    date_start: '2022-01-10'
+    date_start: '2022-01-17'
     date_end: '2022-01-17'
     description: 
 
   - title:
     company: Cloud-Based Learning
-    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
+    company_url: 'https://edutech.netlify.app/slides/edutech_w12/'
     location: 
     date_start: '2022-01-24'
     date_end: '2022-01-31'
-    description: 
-
-  - title:
-    company: Lesson Design with Technology 
-    company_url: 'https://edutech.netlify.com/post/edutech_w1_post/'
-    location: 
-    date_start: '2022-02-07'
-    date_end: '2022-02-14'
     description: 
 
 design:
