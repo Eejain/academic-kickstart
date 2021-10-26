@@ -2,7 +2,7 @@
 title: Week 1 
 summary: Slides for the course introduction
 authors: ["admin"]
-date: 2019-10-17
+date: 2021-10-25
 tags: ["Logistics","Slides"]
 commentable: true
 comments: true
@@ -21,13 +21,8 @@ slides:
 ----
 ### First, some house cleaning...
 - [Course site](https://edutech.netlify.com/)
-- [Course communication](https://discord.gg/e3VpXtv)
-- [Syllabus](https://edutech.netlify.com/post/edutech_syllabus/)  
+- [Syllabus](https://edutech.netlify.app/post/edutech_syllabus/)  
 
----
-### A walk thourgh of the tools
-- Website
-- Discord
 
 ---
 ### Next, let's get to know each other!
@@ -39,7 +34,6 @@ slides:
 </section>
 
 ---
-
 ##### *Beijing, China*
 
 Department of Psychology, Beijing Normal University
@@ -57,6 +51,7 @@ Erziehungswissenschaft, Bildungswissenschaften, Universität Potsdam
 
 Visual cognition and learning/teaching
 
+![](/media/em.png)
 ![](/media/vrclass2.png)
 ![](/media/examp.jpg)
 
@@ -140,10 +135,17 @@ Data analysis and visualization for learning analytics
 
 ---
 ### New technogoly, old idea
-[flipped classroom](https://www.youtube.com/watch?v=iQWvc6qhTds)
-{{< youtube iQWvc6qhTds >}}
+[flipped classroom](https://www.youtube.com/watch?v=qdKzSq_t8k8)
+{{< youtube qdKzSq_t8k8 >}}
+
+![](/media/covidteach.jpeg)
 
 <aside class="notes">
             flipped classroom has never been successful, bec both instruction (bad video) and communication (eliminate interaction during instruction) are not good enough, but it's nevertheless a great idea, and maybe renovated in the future with better technology 
 </aside>
 
+---
+### Course Aim 
+- Knowing how, but more importantly, knowing why
+- Use with confidence
+- Topics: multi-media learning, game-based learning, embodied learning, personalized and adaptive leanring, child development and technology, cloud-baased learning
