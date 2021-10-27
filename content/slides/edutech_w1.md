@@ -22,6 +22,7 @@ slides:
 ### First, some house cleaning...
 - [Course site](https://edutech.netlify.com/)
 - [Syllabus](https://edutech.netlify.app/post/edutech_syllabus/)  
+- [Join online annotation club](https://hypothes.is/groups/Lj6jaX9r/edutech)
 
 
 ---
@@ -52,8 +53,14 @@ Erziehungswissenschaft, Bildungswissenschaften, Universität Potsdam
 Visual cognition and learning/teaching
 
 ![](/media/em.png)
-![](/media/vrclass2.png)
 ![](/media/examp.jpg)
+
+---
+### Inside Academia
+
+Virtual reality and learning/teaching
+
+![](/media/vrclass2.png)
 
 ---
 
@@ -89,7 +96,8 @@ Data analysis and visualization for learning analytics
 
 ---
 ### Outside Academia
-- Freelance illustrator and photographer
+
+Freelance illustrator and photographer
 
 <div class="multicol">
 
