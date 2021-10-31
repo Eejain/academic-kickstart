@@ -2,7 +2,7 @@
 title: Week 2
 summary: Slides for How to Evaluate ICT for Teaching?
 authors: ["admin"]
-date: 2021-11-01
+date: 2021-10-31
 tags: ["ICT","Slides"]
 commentable: true
 comments: true
