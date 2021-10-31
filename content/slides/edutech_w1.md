@@ -7,7 +7,7 @@ tags: ["Logistics","Slides"]
 commentable: true
 comments: true
 slides:
-  theme: serif
+  theme: solarized
   highlight_style: dracula
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: Week 2 
-summary: Slides for Multimedia Learning Pt. 1
+title: Week 2
+summary: Slides for How to Evaluate ICT for Teaching?
 authors: ["admin"]
-date: 2019-10-24
-tags: ["Multimedia_Learning","Slides"]
+date: 2021-11-01
+tags: ["ICT","Slides"]
 commentable: true
 comments: true
 slides:
-  theme: serif
+  theme: solarized
   highlight_style: dracula
 ---
 
 ### *Education on the Horizon: Teaching and Learning with Technology*
-## Week 2: Multimedia Learning Pt. 1
+## Week 2:  How to Evaluate ICT for Teaching?
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
@@ -20,96 +20,126 @@ slides:
 
 ----
 ### First, some house cleaning...
+- Any remaining questions about [syllabus](https://edutech.netlify.app/post/edutech_syllabus/)?
 - [Course site](https://edutech.netlify.com/)
-- [Course communication channel](https://discord.gg/e3VpXtv)
-- [Sigh up for presentation topic before this Friday](https://docs.google.com/spreadsheets/d/10bdOmFw7KLevjp87eB_meW_1oUtAbdOr_x0cDjChPA4/edit?usp=sharing)
+- [VR info](https://edutech.netlify.app/post/teachvr/)
 
 ---
-### Any questions about the tools?
-- Website
-- Discord
-
-
----
-### What is media?
-- Media are tools used to store and deliver information or data
-- Multimedia are communications that incorporate multiple forms of information content and processing
-
-![](/media/media.jpg)
+### What is ICT?
+- More than IT (informational technology)
+- Information and communications technology (ICT)
 
 ---
-### Medium is like the *vehicle* of information. 
+### The dilemma of modern educators
+- Too many ICT tools that come out too fast
+- Yet we have little guidance when making choices 
+- Will Wegweiser leads us to a wise path?
 
+<img src="/media/signpost.jpeg" width="300"/>
 
----
-### You can convey similar content with different media
-![](/media/different-transportation.png)
-
----
-### What is multimedia learning
-- Present the material using various media types that are intended to foster learning.
-- Types of media: text, audio, static graphic (photos, drawings, maps, charts, figures), dynamic graphic (video, animation), or any other vehicle of information
+<!-- we could not find anything that "simply works" when we need them the most -->
+<!-- and finding a way when you are in a hurry is not a good idea  -->
 
 ---
-### Why is it an attractive idea?
-
-- Suitability: sometimes one media is more suitable to present certain information than others
-- Student preference: sometimes one prefer certain media than others
+### Search for a solution in a hurry?
+<img src="/media/googlsearchresultfortools.jpg" width="400"/>
 
 ---
-### Let's consider suitability first...
+### Prepare a toolbox beforehand!
+- All tools have learning curves, do your preparation early
 
 ---
-### Visual over words? 
+### Our goal for preparing the toolbox
+
+<style>
+.multicol{
+    display: flex;
+}
+.col_l{
+    flex: 4;
+}
+.col_r{
+    flex: 4;
+}
+</style>
+
+<div class="multicol">
+
+<div class="col_l">
+      <img src="/media/toolbox_complex.jpg" > 
+</div>
+
+<div class="col_r">
+<section>
+      <img src="/media/toolbox_simple.jpg" > 
+</section>
+</div>
+
+</div>
+
+<!-- generic tools that suits many cases and scenarios, knowing how to fish -->
 
 ---
-### Example 1. How would you explain how a *smart phone* works?
+> To teach someone how to fish is better than to just give them a fish
+
+<img src="/media/teachfish.jpeg" width="500"/>
 
 ---
-![](/media/cellphone.png)
+### Selecting a tool: Backward design
+- Like always, plan your instructional goals first
+- Then think backwards: what kind of tools would you need to fulfill your instructional objective?
+    - I want students to be able to...
+    - This tool should help students to...
+    - Adjectives describing this tool
 
 ---
-### Example 2. How do you decide what to wear?
+### Example of using backward design
+- I want students to be able to memorize molecule structure  
+- This tool should help them to reconstruct key elements in the structure
+- It's interactive, easy to use, 3D, free 
+- Search for "easy interactive free 3D tool"
 
 ---
-![](/media/decisiontree2.png)
+### Evaluating a tool: SAMR model
+- Substitution, Augmentation, Modification, and Redefinition
+- Four types of reasons to use new ICT tools over old ones
+- A framework to consider: Do you really need the new tool?
 
 ---
-### Visual over words
-- When the concept is abstract and hard to visualize.
-- When the logic is not linear.
+> All that glitters is not gold
+
+<img src="/media/goldglitter.jpg" width="500"/>
 
 ---
-### Audio over visual?
-- Audio carries unique information
-      + Example: [Hearning range test (6:25-10:00)](https://www.20k.org/episodes/hearingloss )
+### Example of using SAMR
+- Use SAMR to make a sentence 
+- I *substitute* the paper-based flashcards with [Quizlet](https://quizlet.com/) to teach German, because...  
+    - it *augments* the existing function of flashcards by linking an image or video to the card;
+    - it *modifies* the function of flashcards by adding possibility of setting deadline for learning the cards and compare with class mates 
+    - it *redefines* flashcards because users can make cards together with anyone in the world.
 
 ---
-### What about personal preferences for media types?
+### Create our own ICT toolbox
+- Content tools: facilitate delivering certain content. Khan Academy, Google Arts & Culture
+- Assessment tools: evaluate what students know. Kahoot, Google Forms
+- Community tools: enable group and collaborative work. Hypotes.is, Diigo, Notion
+- Creative tools: allow students to create their own work. Canva, Adobe Spark 
 
 ---
-### Is the "learning style" theory true?
-- Claims of the learning style theory:
-      + Each person has a preferred way of receiving new information: visual, auditory, kinesthetic
-      + When learning something new, student will learn better when the instruction matches their preferred media types
-+ Are these claims true?
+### Workflow
+- Everyone will pick one category of ICT tools they are most interested in using. 
+- You will work together with other classmates who&rsquo;s also interested in this category of tools.
+- During the semester, you will collaboratively gather and evaluate the ICT tools according to SAMR model.
+- At the end of the semester, you will present your selection and evaluation of ICT tools as a group.
+- The presentation can take a variety of formats, including (a) regular slides presentation; (b)hands-on workshop; (c) simulation of real lesson; or any otherformats you find appropriate.
 
 ---
-### Example of instruction according to learning style theory
-- When learning addition...
-      - Visual learner: view grouping of objects
-      - Auditory learner: listen to sets of rhythms
-      - Kinesthetic learner: arrange objects into groups
+### Resources
+- A good example of ICT showcase: https://blogs.umass.edu/onlinetools/
+- A data base for edtech tools: https://database.edtechhub.org/tools/
+- Additional reading: https://edtechbooks.org/digitaltoolsapps/teachingwithdigital
+- Don't overwhelm yourself, think about backward design :)
 
----
-### What's wrong with this approach?
-- No matter what's the input module, most of the information are encoded semantically (as meaning)
-- Everyone can benefit from various representations of the same content
 
----
-### Take home messages
-- We need to consider which media to use for instruction, because––
-      - sometimes one media is more suitable to present certain information than others
-      - sometimes one prefer certain media than others, although multimedia can be beneficial for everyone
 
 
