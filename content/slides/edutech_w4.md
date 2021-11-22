@@ -116,7 +116,7 @@ slides:
 ---
 ###  Related talks
 - Learning for own *growth*, not for *avoiding failure*: [growth mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve/up-next?language=en)
-- [Gradecraft founder talk](https://www.youtube.com/watch?v=k0najpqbwa0)
+- [Gradecraft founder talk](https://www.youtube.com/watch?v=k0NaJpQbwA0)
 
 
 ---

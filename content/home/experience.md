@@ -48,7 +48,7 @@ experience:
 
   - title:
     company: Game-Based Learning
-    company_url: 'https://edutech.netlify.app/slides/edutech_w5/'
+    company_url: 'https://edutech.netlify.app/slides/edutech_w4/'
     location: 
     date_start: '2021-11-22'
     date_end: '2021-11-29'
