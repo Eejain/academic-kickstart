@@ -2,12 +2,12 @@
 title: Week 4 
 summary: Slides for Game-Based Learning Pt. 1
 authors: ["admin"]
-date: 2019-11-21
+date: 2021-11-22
 tags: ["GameBased_Learning","Slides"]
 commentable: true
 comments: true
 slides:
-  theme: night
+  theme: solarized
   highlight_style: dracula
 ---
 
@@ -18,8 +18,6 @@ slides:
 ###### Department Erziehungswissenschaft, University of Potsdam
 
 ---
-### What's new?
-- E-Learning Tag 2019
 - A walk-through of the website functions
     + Where to find all the slides?
         * Search bar, Tags, Content menu, Timeline
@@ -30,19 +28,26 @@ slides:
         * Print → Save as PDF
 
 ----
-## Can you describe what is a *game*?
-![](/media/game.png)
+### Can you describe what is a *game*?
+![](/media/gameful.png)
 
 <!-- some of the features are superficial, some are fundamental-->
 
 ---
-Your thoughts on game: competitive, rule/goal, fun, group/individual activity, problem-solving,  become better at the game, win/lose, different types 
+### Did you think of the following keywords?
+- competitive, has rule/goal, like sports game 
+- fun, can be a social activity, like family game 
+- problem-solving,  you can become better at the game through practice
+- engaging, time-absorbing
+- ...
+
+![](/media/game.png)
 
 ---
-###  Can we implement gameful elements in education, and why?
+###  The big question: Can we implement game-like elements in education, and why?
 
 ---
-## Concepts
+### Concepts
 - Gamification: the use of game design elements in non-game contexts
 - Gameful learning design: redesigning core elements of a learning environment according to game design principles.
 
@@ -84,9 +89,9 @@ Your thoughts on game: competitive, rule/goal, fun, group/individual activity, p
 ---
 ####  Reinforcements in a traditional classroom are often...
 
-- Inconsistent: not all students, all improvements can be acknowledged
+- Inconsistent: not all students, all improvements can be acknowledged due to large class size
 - Vague: students are confused about their progress
-- Singular: score
+- Singular: score,  teacher's evaluation
 
 ---
 ####  Punishments in the game are...
@@ -107,7 +112,11 @@ Your thoughts on game: competitive, rule/goal, fun, group/individual activity, p
 
 - Actively seek challenges
 - Not concerned about failure
+
+---
+###  Related talks
 - Learning for own *growth*, not for *avoiding failure*: [growth mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve/up-next?language=en)
+- [Gradecraft founder talk](https://www.youtube.com/watch?v=k0najpqbwa0)
 
 
 ---
