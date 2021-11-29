@@ -2,12 +2,12 @@
 title: Week 5 
 summary: Slides for Game-Based Learning Pt. 2
 authors: ["admin"]
-date: 2019-11-28
+date: 2021-11-29
 tags: ["GameBased_Learning", "Slides"]
 commentable: true
 comments: true
 slides:
-  theme: night
+  theme: solarized
   highlight_style: dracula
 ---
 
@@ -62,7 +62,18 @@ slides:
 ###  Autonomy: example
 - In a gameful course, this same feeling can be established
     - allowing students to redo assignments multiple times to achieve mastery
-    - providing alternate assignments that mitigate the impact of failed attempts. 
+    - providing alternate assignments that mitigate the impact of failed attempts
+    - allow for free exploration
+
+---
+###  Assassin’s Creed - Odyssey tours
+- Interactive tours for learning about Ancient Greek
+- Quiz at the end of the tour: righ or wrong, students will get more information about the topic
+- [demo video](https://www.youtube.com/watch?v=G5xBc63LVC8)
+
+![](/media/assasincreeddemo1.png)
+
+<!-- 20:32 quiz -->
 
 ---
 ###  Competence (Mastery)
@@ -70,28 +81,41 @@ slides:
 - Ideal learning environment: learners engage with course contents because they feel that they can do so successfully
 
 ---
-### Competence: example
+### Competence: Token system
+- Token system in Pokemon Go 
+- Similar system can also be used to motivate and help students keep track of progress
+- Tokens are not designed to manipulate students to fish for prizes, but to show clearly what’s the progress, and what to do next
+
 ![](/media/pokemonbadge.png)
 
 ---
-### Competence: example
+### Competence: Token system
+- Here's an example token system from Khan Academy (an online learning service)
+
 ![](/media/khanbadge.png)
 
-<!-- They are not designed to manipulate students to fish for prizes, but to show clearly what’s the progress, and what to do next -->
+---
+###  Competence: EP system
+![](/media/leveloper1.png)
+
+---
+###  Competence: EP system
+![](/media/leveloper2.png)
 
 ---
 ###  Belonging (Meaning)
 - In game: grow together with the community
 - Ideal learning environment: learners feel connected to their teachers and peers
+- Can you think of some strategies of connecting students and instructors during online learning (such as this seminar)?
 
 
 ---
 ###  Gameful learning environment: example
 - [GradeCraft](https://www.gradecraft.com/)
     - [A short intro](https://www.youtube.com/watch?v=kxb3wVwmYyc)
-    - 0 up instead of 100 down
+    - [Gradecraft founder talk](https://www.youtube.com/watch?v=k0NaJpQbwA0)
+<!--     - 0 up instead of 100 down
     - visualize progress 
     - alternative assessment pathways 
     - create own learning plan
-    - adaptive content 
-    - can you pinpoint the SDT elements?
+    - adaptive content  -->
