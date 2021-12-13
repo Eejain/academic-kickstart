@@ -50,4 +50,8 @@ slides:
 ###  Affordable XR in classroom
 - [360 classrom](https://xr.kent.edu/videos-2/) 
 - [360 video about human body](https://www.youtube.com/watch?v=kw9EJbezlK4) 
-- [mobile app](https://apps.apple.com/de/story/id1500735629?l=en)
+- [list of educational AR app](https://apps.apple.com/de/story/id1500735629?l=en)
+- [MauAR](https://apps.apple.com/de/app/mauar-berlin-wall/id1439084007?l=en)
+- [For All Mankind: Time Capsule](https://apps.apple.com/de/app/for-all-mankind-time-capsule/id1541425599?l=en)
+- [Beaker](https://apps.apple.com/de/app/beaker-by-thix/id961227503?l=en)
+- [Physics Lab AR](https://apps.apple.com/de/app/physics-lab-ar/id1298984261?l=en)
