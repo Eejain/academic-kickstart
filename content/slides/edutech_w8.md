@@ -44,6 +44,7 @@ slides:
 - Learning is the acquisition of associations: what input leads to what output 
 - AI can make inferences about new inputs based on learned associations
 - Therefore AI is capable of "learning" based on "past experience", similar to human decision making
+- [Computer Scientist Explains Machine Learning](https://www.youtube.com/watch?v=5q87K1WaoFI)
 
 ---
 ###  Some interesting AI demos
@@ -55,6 +56,7 @@ slides:
 - [Generative story](https://ai-adventure.appspot.com/)
 - [Deep fake voice](https://fakeyou.com/)
 - [AI guessing memes](https://twitter.com/ResNeXtGuesser/status/1477391701807300608)
+- [AI conversations](https://www.youtube.com/watch?v=jz78fSnBG0s)
 - [more demos](https://www.nvidia.com/en-us/research/ai-demos/)
 
 ---

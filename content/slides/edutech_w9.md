@@ -18,13 +18,14 @@ slides:
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
 
+
 ---
 ###  One size doesn't fit all
 [The end of average](https://www.youtube.com/watch?v=4eBmyttcfU4)
 
 ---
 ###  Differentiated Instruction
-- Modify instruction in light of student difference (Tomlinson, 1999)
+- Modify instruction in light of student difference
 - Acknowledge the individual needs, preference, background of students
 
 ---
@@ -46,7 +47,9 @@ slides:
 
 ---
 ###  Example 2: decision tree + big data
-- [adaptive learning](https://domoscio.com/solutions/adaptive-learning/)
-- [adaptive assessment](https://www.fossweb.com/fossweb-walkthrough-videos)
+- [adaptive learning](https://domoscio.com/en/domoscio-spark-2/)
 
+---
+###  Controversies
+- [AI in classroom](https://www.youtube.com/watch?v=JMLsHI8aV0g)
 
