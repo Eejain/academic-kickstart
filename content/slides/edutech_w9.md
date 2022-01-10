@@ -1,14 +1,14 @@
 
 ---
 title: Week 9
-summary: Slides for Personali§zed and Adaptive Learning Pt. 2
+summary: Slides for Personalized and Adaptive Learning Pt. 2
 authors: ["admin"]
-date: 2020-01-09
+date: 2022-01-10
 tags: ["Personalized_Learning","Slides"] 
 commentable: true
 comments: true
 slides:
-  theme: night
+  theme: solarized
   highlight_style: dracula
 ---
 

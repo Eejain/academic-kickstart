@@ -18,6 +18,8 @@ slides:
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
 
+- Jane McGonigal: https://www.youtube.com/watch?v=25KJf8XWAgM
+
 ---
 ### Are we addicted to the screen?
 

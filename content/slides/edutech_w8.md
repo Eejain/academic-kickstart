@@ -47,13 +47,15 @@ slides:
 
 ---
 ###  Some interesting AI demos
-- [Create landscape from section map](http://nvidia-research-mingyuliu.com/gaugan/)
+- [Create landscape from section map](http://gaugan.org/gaugan2/)
+- [Generative art](https://app.wombo.art/)
 - [Create whole paragraph from words](https://talktotransformer.com/)
 - [Create anime styled selfies](https://waifu.lofiu.com/)
 - [How about oil-painting styled selfies](https://ai-art.tokyo/en/)
 - [Generative story](https://ai-adventure.appspot.com/)
 - [Deep fake voice](https://fakeyou.com/)
 - [AI guessing memes](https://twitter.com/ResNeXtGuesser/status/1477391701807300608)
+- [more demos](https://www.nvidia.com/en-us/research/ai-demos/)
 
 ---
 ###  Mini Quiz: Are they AI?
