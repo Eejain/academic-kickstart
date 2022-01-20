@@ -1,24 +1,22 @@
 
 ---
 title: Week 10
-summary: Slides for Child Development and Technology Pt. 1
+summary: Slides for Child Development and Technology
 authors: ["admin"]
-date: 2020-01-16
+date: 2022-01-19
 tags: ["Children_Tech","Slides"] 
 commentable: true
 comments: true
 slides:
-  theme: night
+  theme: solarized
   highlight_style: dracula
 ---
 
 ### *Education §on the Horizon: Teaching and Learning with Technology*
-## Week 10: Child Development and Technology  Pt. 1
+## Week 10: Child Development and Technology 
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
-
-- Jane McGonigal: https://www.youtube.com/watch?v=25KJf8XWAgM
 
 ---
 ### Are we addicted to the screen?
@@ -55,10 +53,7 @@ slides:
 ###  A word of caution
 - All the medium had been criticized at some point
 - Even the [books](https://www.historytoday.com/archive/reading-bad-your-health)!
-![](/media/book.png)
-
----
-###  Blame the content, not the medium
+- Medium itself doesn't carry value judgment, but content does 
 
 ---
 ###  How to choose proper educational content?
@@ -66,68 +61,44 @@ slides:
 ---
 ### Children's cognitive development
 - Children's *thinking* is fundamentally *different* from adult's
-- Cognitive development is the changes that occur in mental activities such as attending, perceiving, learning, thinking, and remembering
+- Educational content has to match the children's cognitive development stage (not necessarily their ages) and promote "metacognition"
 
 ---
-###  Piaget's theory
-- Development is characterized by a sequence of *stages*
-- Each stage builds on preceding stages, but is qualitatively unique
+A Fairy-Tale-King invites you to sit down in front of him… 
+“design for me, a magical castle with beautiful towers.” It turns out that he has enough money to pay for ten floors and tells you to distribute these ten floors any way you like between your towers. 
 
+“However”, he whispers, “None of the towers can be the same height!” For example, you could build three towers of height 4,5,1 but you could not build four towers of heights 1,3,5,1 because two towers are of height 1.
 
----
+![](/media/castle.jpeg)
 
-![](/media/piaget.png)
-
-<!-- piaget differentiate these stages by the type of knowledge the children acquired. action knowledge, symbolic knowledge,  abstract knowledge and propositional knowledge. it's easier to remember the key task that children can achive if they concur the stage (like rpg character)
- -->
----
-### Sensorimotor stage: Object permanence
-
-![](/media/peekaboo.jpg)
-- [peekaboo](https://www.youtube.com/watch?v=YYG8ronqFVA)
+<!-- ^ this is a problem for first grader with 24 potential solutions, we could script several student avatars answer the question to increase interactivity -->
 
 ---
-### Pre-operational stage: Theory of mind
-
-![](/media/tom.jpg)
+## When you are thinking about this problem, did you also thought about the *thinking* itself?
 
 ---
-### Three mountain experiment
+## Think about thinking = Metacognition
 
-![](/media/3mountain.jpg)
-
----
-### Concrete operational stage: Conservation problem
-
-![](/media/conservationprob.jpg)
+- Metacognition means “thinking about one’s own thinking”, “higher-order cognition about cognition”, “knowledge about knowledge”, “thoughts about thoughts” or “reflection about reflection”
+- Monitor and organize your own thinking is important for effective problem solving! 
 
 ---
-### Formal operational stage: Abstract reasoning
+## How to solve ANY problem? 
 
-![](/media/formula.png)
-
----
-Patricia is upset because she is convinced that her brother has a bigger piece of cake than she does. Her dad quickly slices Patricia's piece of cake in two and tells her that she now has "more" cake. If Patricia calms down and is convinced that she does have more cake than her brother, it would suggest that she
+![](/media/metacog_cycle.png)
 
 ---
-A.  has not yet mastered object permanence.
-
-B.  does not understand the process of assimilation.
-
-C.  does not yet understand conservation.
-
-D.  is displaying egocentric reasoning.
-
-And at what stage she will be acquiring that ability? 
-
-<!-- Understanding  physical properties do not change when nothing is added or taken away, even if appearances may change, occurs during the concrete operational stage
- -->
+## For example...
+- Assess the task: Have I see similar problem before? How difficult this might be?
+- Evaluate strengths/weaknesses: Can I ask someone for help regarding xxx? 
+- Plan the approach: What's my goal? How can I get there?
+- Apply strategies: Am I on the right track?
+- Reflect: Did I meet my goal? Are there different ways to do it? 
 
 ---
-- Educational content has to match the children's cognitive development stage (not necessarily their ages)
-- Goldilock's zone:
-    - Too difficult → frustrated and anxious
-    - Too easy → bored and unengaged
-![](/media/goldilocks.png)
+### Here are some articles you might found interesting!
+- [Boost metacognition in classroom](http://www.spencerauthor.com/metacognition/)
+- [Classroom activities for metacognition](https://resources.depaul.edu/teaching-commons/teaching-guides/learning-activities/Pages/activities-for-metacognition.aspx)
+
 
 
