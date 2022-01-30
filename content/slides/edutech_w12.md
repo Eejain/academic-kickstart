@@ -8,7 +8,7 @@ tags: ["Cloud_Learning", "Slides"]
 commentable: true
 comments: true
 slides:
-  theme: night
+  theme: solarized
   highlight_style: dracula
 ---
 
@@ -60,6 +60,7 @@ Social media platforms
 ###  Demos: Other cloud-based learning platform
 - [Teach-Outs](https://ai.umich.edu/our-work/teach-outs/): non-profit, like a workshop that centers around current topics
 - [Khan Academy](https://www.khanacademy.org/): non-profit, basic STEM courses for lower grades
+- Watch Khan academy's creator talking about why he created this platform: https://www.youtube.com/watch?v=dCxGAvSH-cw  
 
 <!-- Khan academy's creator: https://www.youtube.com/watch?v=dCxGAvSH-cw --> 
 
@@ -91,8 +92,10 @@ Social media platforms
 ---
 ###  Criticisms 
 - High drop-out rate
-- "Matthew effect"
+- "Matthew effect": the rich get richer and the poor get poorer. 
+- Optional reading: [The Wolf in Sheep’s Clothing: The Matthew Effect in Online Education](https://hipatiapress.com/hpjournals/index.php/rise/article/view/789)
 
 ---
 ### Bonus resources
 - [Teach-Now](https://teach-now.edu/): getting a teaching certificate through online training
+- What do you think of this certification program? 
