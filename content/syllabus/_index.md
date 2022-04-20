@@ -2,8 +2,7 @@
 title = "Syllabus"
 description = ""
 summary = "edutech syllabus summer 22"
-date = "2022-04-19"
-tags = ["Logistics","syllabus"]
+date = "2022-04-20"
 weight = 1
 +++
 
@@ -60,7 +59,7 @@ The evaluation of such goals will be based on your performance in weekly reflect
 | 0%&#x2013;49.5%            | 5.0         |
 
 -   **Weekly Reflection (20 points)**
-    -   Everyone will submit a short response in our shared OneNote (<https://bit.ly/3Op3gm4>) after each meeting.
+    -   Everyone will submit a short response in our shared [OneNote notebook](https://bit.ly/3Op3gm4) after each meeting.
     -   In the response, please write down in bullet points: what you have learned; what you don't quite understand; what you would like to learn more about regarding the particular topic of the week?
 
 -   **VR Experience (20 points)**
@@ -68,7 +67,7 @@ The evaluation of such goals will be based on your performance in weekly reflect
     -   More information will be provided later.
 
 -   **ICT Toolbox Showcase (60 points)**
-    -   Everyone will pick one category of ICT tools they are most interested in using (<https://bit.ly/3Eri66N>). You will work together with other classmates who's also interested in this category of tools.
+    -   Everyone will [pick one category of ICT tools](https://bit.ly/3Eri66N) they are most interested in using (<https://bit.ly/3Eri66N>). You will work together with other classmates who's also interested in this category of tools.
     -   During the semester, you will collaboratively gather and evaluate the ICT tools according to a standardized framework.
     -   At the end of the semester, you will present your selection and evaluation of ICT tools as a group. The presentation can take a variety of formats, including (a) regular slides presentation; (b)hands-on workshop; (c) simulation of real lesson; or any otherformats you find appropriate.
     -   We'll introduce this task further on the second week.
@@ -81,7 +80,7 @@ The evaluation of such goals will be based on your performance in weekly reflect
 
 It will be important to follow a few general guidelines to ensure that our lessons run smoothly and are enjoyable for everyone.
 
--   Class will officially starts 15 minutes after the meeting time- There will be no class break so we can end class earlier.
+-   Class will officially starts 15 minutes after the meeting time. There will be no class break so we can end class earlier.
 -   This course is provided in English since I can't speak German (yet). I also encourage you using English within group activities so that I can better facilitate your learning process. But don't struggle with language if you feel more comfortable using German to communicate with your peers.
 -   When engaging in discussions please be respectful and relevant. Being respectful includes addressing ideas offered by classmates in a constructive manner. Being relevant requires that comments made in class relate to the material in a way that enriches our learning. Everyone should and will have the chance to contribute to discussions.
 
@@ -94,10 +93,10 @@ It will be important to follow a few general guidelines to ensure that our lesso
 | 2022-05-02 | W02 How to Evaluate ICT for Teaching?  |
 | 2022-05-09 | W03 Multi-Media Learning               |
 | 2022-05-16 | W04 VR Experience                      |
-| 2021-05-23 | W05 Embodied Learning (VR/AR)          |
-| 2021-05-30 | W06 Game-Based Learning 1              |
-| 2021-06-13 | W07 Game-Based Learning 2              |
-| 2021-06-20 | W08 Personalized and Adaptive Learning |
+| 2022-05-23 | W05 Embodied Learning (VR/AR)          |
+| 2022-05-30 | W06 Game-Based Learning 1              |
+| 2022-06-13 | W07 Game-Based Learning 2              |
+| 2022-06-20 | W08 Personalized and Adaptive Learning |
 | 2022-06-27 | W09 Child Development and Technology   |
 | 2022-07-04 | W10 Cloud-Based Learning 1             |
 | 2022-07-11 | W11 Cloud-Based Learning 2             |

@@ -3,7 +3,6 @@ title = "Week 13"
 summary = "cloud-based learning pt.2"
 date = "2020-02-04"
 hidden = false
-tags = ["Slides"]
 type = "slide"
 theme = "serif"
 [revealOptions]

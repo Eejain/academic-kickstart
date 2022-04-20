@@ -1,9 +1,8 @@
 +++
-title = "Week 7"
+title = "Week 07"
 summary = "emobodied learning pt.2"
-date = "2020-02-04"
+date = "2020-02-05"
 hidden = false
-tags = ["Slides"]
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -24,9 +23,9 @@ highlight_style = 'dracula'
 
 ---
 ###  VR in news
-- [Fully VR based seminar](https://news.stanford.edu/2021/11/05/new-class-among-first-taught-entirely-virtual-reality/)
+- [VR based seminar](https://news.stanford.edu/2021/11/05/new-class-among-first-taught-entirely-virtual-reality/)
 
-----
+---
 ### Why XR could be a powerful learning environment?
 - Intuitive interaction 
 - Extra layer of information

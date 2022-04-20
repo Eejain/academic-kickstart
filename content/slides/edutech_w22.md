@@ -1,9 +1,8 @@
 +++
-title = "Week 2.2"
+title = "Week 2_2"
 summary = "multimedia learning pt.1"
 date = "2020-02-04"
-hidden = false
-tags = ["Slides"]
+hidden = true
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -19,7 +18,7 @@ highlight_style = 'dracula'
 ###### Department Erziehungswissenschaft, University of Potsdam
 
 
-----
+---
 ### First, some house cleaning...
 - [Course site](https://edutech.netlify.com/)
 - [Course communication channel](https://discord.gg/e3VpXtv)

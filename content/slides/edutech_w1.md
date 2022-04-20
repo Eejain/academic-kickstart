@@ -1,9 +1,9 @@
 +++
-title = "Week 1"
+title = "Week 01"
 summary = "slides for the course introduction"
 date = "2022-04-20"
 hidden = false
-tags = ["logistics","Slides"]
+weight = 1
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -19,7 +19,7 @@ highlight_style = 'dracula'
 ###### Department Erziehungswissenschaft, University of Potsdam
 
 
-----
+---
 ### First, some house cleaning...
 - [Course site](https://edutech.netlify.com/)
 - [Syllabus](https://edutech.netlify.app/post/edutech_syllabus/)  

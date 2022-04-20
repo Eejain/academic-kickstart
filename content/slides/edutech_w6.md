@@ -1,9 +1,8 @@
 +++
-title = "Week 6"
+title = "Week 06"
 summary = "embodied learning pt.1"
 date = "2020-02-04"
 hidden = false
-tags = ["Slides"]
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -22,7 +21,7 @@ highlight_style = 'dracula'
 VR, XR, MR, Metaverse?
 ![](/media/vr2.jpg)
 
-----
+---
 ### Virtuality vs. Reality
 - Virtuality is commonly regarded as a self-consistent, fully synthetic world that doesn't have to follow the laws of physics of real world. 
 - Virtuality and reality are not opposites, but more like two ends of a continuum

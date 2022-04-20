@@ -1,9 +1,8 @@
 +++
-title = "Week 8"
+title = "Week 08"
 summary = "personalized and adaptive learning pt.1"
 date = "2020-02-05"
 hidden = false
-tags = ["Slides"]
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -69,7 +68,8 @@ highlight_style = 'dracula'
 - Style transfer filters in applications such as Prisma that take a photo and transform it into different art styles (impressionist, cubist, ...)
 
 ---
-###  [Answers](https://course.elementsofai.com/1/1)
+###  Answers
+- [Answers](https://course.elementsofai.com/1/1)
 
 ---
 ###  Application in education?

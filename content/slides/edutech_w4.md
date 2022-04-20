@@ -1,9 +1,8 @@
 +++
-title = "Week 4"
+title = "Week 04"
 summary = "game-based learning pt.1"
 date = "2020-02-04"
 hidden = false
-tags = ["Slides"]
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -27,7 +26,7 @@ highlight_style = 'dracula'
     + How to download the slides?
         * Print → Save as PDF
 
-----
+---
 ### Can you describe what is a *game*?
 ![](/media/gameful.png)
 

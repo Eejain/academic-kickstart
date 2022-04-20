@@ -3,7 +3,6 @@ title = "Week 10"
 summary = "child development and technology"
 date = "2020-02-04"
 hidden = false
-tags = ["Slides"]
 type = "slide"
 theme = "serif"
 [revealOptions]

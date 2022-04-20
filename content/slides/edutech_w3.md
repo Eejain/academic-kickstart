@@ -1,9 +1,8 @@
 +++
-title = "Week 3"
+title = "Week 03"
 summary = "multimedia learning"
 date = "2020-02-04"
 hidden = false
-tags = ["Slides"]
 type = "slide"
 theme = "serif"
 [revealOptions]

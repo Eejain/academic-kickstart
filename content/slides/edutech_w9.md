@@ -1,9 +1,8 @@
 +++
-title = "Week 9"
+title = "Week 09"
 summary = "personalized and adaptive learning pt.2"
 date = "2020-02-04"
 hidden = false
-tags = ["Slides"]
 type = "slide"
 theme = "serif"
 [revealOptions]

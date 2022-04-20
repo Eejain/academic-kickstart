@@ -1,9 +1,9 @@
 +++
-title = "Week 2"
+title = "Week 02"
 summary = "ict tool evaluation"
 date = "2020-02-04"
 hidden = false
-tags = ["Slides"]
+weight = 2
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -18,7 +18,7 @@ highlight_style = 'dracula'
 ###### Department Erziehungswissenschaft, University of Potsdam
 
 
-----
+---
 ### First, some house cleaning...
 - Any remaining questions about [syllabus](https://edutech.netlify.app/post/edutech_syllabus/)?
 - [Course site](https://edutech.netlify.com/)

@@ -1,9 +1,8 @@
 +++
-title = "Week 5"
+title = "Week 05"
 summary = "game-based learning pt.2"
 date = "2020-02-04"
 hidden = false
-tags = ["Slides"]
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -17,7 +16,7 @@ highlight_style = 'dracula'
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
 
-----
+---
 ### Recap
 - Game is a structured form of play, usually for enjoyment.
 - Gameful learning redesigns core elements of a learning environment according to game design principles.
