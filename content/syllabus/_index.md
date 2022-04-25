@@ -63,7 +63,7 @@ The evaluation of such goals will be based on your performance in weekly reflect
     -   In the response, please write down in bullet points: what you have learned; what you don't quite understand; what you would like to learn more about regarding the particular topic of the week?
 
 -   **VR Experience (20 points)**
-    -   We are going to meet in mid-May in Golm for a VR teaching experience.
+    -   We are going to meet at the end of this semester in Golm for a VR teaching experience.
     -   More information will be provided later.
 
 -   **ICT Toolbox Showcase (60 points)**

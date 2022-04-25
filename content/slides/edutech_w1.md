@@ -1,7 +1,7 @@
 +++
 title = "Week 01"
 summary = "slides for the course introduction"
-date = "2022-04-20"
+date = "2022-04-25"
 hidden = false
 weight = 1
 type = "slide"
@@ -30,7 +30,7 @@ highlight_style = 'dracula'
 ### Next, let's get to know each other!
 
 ---
-> # Where have I been?
+# Where have I been?
 
 <section data-background-image="/media/earth.jpg" >
 </section>
@@ -59,7 +59,7 @@ Visual cognition and learning/teaching
 ---
 ### Inside Academia
 
-Virtual reality and learning/teaching
+[Virtual reality and learning/teaching](https://www.uni-potsdam.de/en/erziehungswissenschaftliche-bildungsforschung/research/virtual-classroom)
 
 ![](/media/vrclass2.png)
 
@@ -143,9 +143,8 @@ Freelance illustrator and photographer
 - A new media: [Instagram Story](https://www.instagram.com/seeduniversity/)
 
 ---
-### New technogoly, old idea
+### New tech, old idea
 [flipped classroom](https://www.youtube.com/watch?v=qdKzSq_t8k8)
-{{< youtube qdKzSq_t8k8 >}}
 
 ![](/media/covidteach.jpeg)
 
@@ -158,3 +157,7 @@ Freelance illustrator and photographer
 - Knowing how, but more importantly, knowing why
 - Use with confidence
 - Topics: multi-media learning, game-based learning, embodied learning, personalized and adaptive leanring, child development and technology, cloud-baased learning
+
+
+---
+### Any questions about this course?
