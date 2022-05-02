@@ -1,7 +1,7 @@
 +++
 title = "Week 02"
 summary = "ict tool evaluation"
-date = "2020-02-04"
+date = "2022-05-02"
 hidden = false
 weight = 2
 type = "slide"
@@ -20,9 +20,8 @@ highlight_style = 'dracula'
 
 ---
 ### First, some house cleaning...
-- Any remaining questions about [syllabus](https://edutech.netlify.app/post/edutech_syllabus/)?
+- Any remaining questions about the [syllabus](https://edutech.netlify.app/post/edutech_syllabus/)?
 - [Course site](https://edutech.netlify.com/)
-- [VR info](https://edutech.netlify.app/post/teachvr/)
 
 ---
 ### What is ICT?
@@ -33,7 +32,7 @@ highlight_style = 'dracula'
 ### The dilemma of modern educators
 - Too many ICT tools that come out too fast
 - Yet we have little guidance when making choices 
-- Will Wegweiser leads us to a wise path?
+- Will _der Wegweiser_ leads us to a wise path?
 
 <img src="/media/signpost.jpeg" width="300"/>
 
@@ -44,6 +43,7 @@ highlight_style = 'dracula'
 ### Search for a solution in a hurry?
 <img src="/media/googlsearchresultfortools.jpg" width="400"/>
 
+<!-- hoping for a sighpost when we needed it the most is not a good solution for solving problems, instead we should prepare a toolbox beforehand  -->
 ---
 ### Prepare a toolbox beforehand!
 - All tools have learning curves, do your preparation early
@@ -92,12 +92,19 @@ highlight_style = 'dracula'
     - This tool should help students to...
     - Adjectives describing this tool
 
+<!-- general strategy -->
+
 ---
 ### Example of using backward design
 - I want students to be able to memorize molecule structure  
 - This tool should help them to reconstruct key elements in the structure
-- It's interactive, easy to use, 3D, free 
-- Search for "easy interactive free 3D tool"
+- Therefore, it should have the following feature:
+    - interactive 3D modeling (to reconstruct)
+    - easy to use (for students)
+- Search for "easy interactive 3D modeling software/app"
+- Viola, Google gives you many candidates
+
+<!-- next step: evaluate these tools to see whether they are really fitting  -->
 
 ---
 ### Evaluating a tool: SAMR model
@@ -127,7 +134,7 @@ highlight_style = 'dracula'
 
 ---
 ### Workflow
-- Everyone will pick one category of ICT tools they are most interested in using. 
+- Everyone will [pick one category of ICT tools ](https://docs.google.com/spreadsheets/d/10Yyvj4CGUOinyswBB7jx9eqXbUTb-1Rg35n99tZoVhI/edit?usp=sharing) they are most interested in using. 
 - You will work together with other classmates who&rsquo;s also interested in this category of tools.
 - During the semester, you will collaboratively gather and evaluate the ICT tools according to SAMR model.
 - At the end of the semester, you will present your selection and evaluation of ICT tools as a group.
