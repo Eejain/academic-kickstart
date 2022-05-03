@@ -39,9 +39,8 @@ The evaluation of such goals will be based on your performance in weekly reflect
 
 | Class Component      | Points | Percentage of Total Points |
 |----------------------|--------|----------------------------|
-| Weekly Reflection    | 20     | 20%                        |
-| VR Experience        | 20     | 20%                        |
-| ICT Toolbox Showcase | 60     | 60%                        |
+| Weekly Reflection    | 30     | 30%                        |
+| ICT Toolbox Showcase | 70     | 70%                        |
 | Total                | 100    | 100%                       |
 
 | Percentage of Total Points | Final Grade |
@@ -58,15 +57,15 @@ The evaluation of such goals will be based on your performance in weekly reflect
 | 50%&#x2013;54.5%           | 4.0         |
 | 0%&#x2013;49.5%            | 5.0         |
 
--   **Weekly Reflection (20 points)**
+-   **Weekly Reflection (30 points)**
     -   Everyone will submit a short response in our shared [OneNote notebook](https://bit.ly/3Op3gm4) after each meeting.
     -   In the response, please write down in bullet points: what you have learned; what you don't quite understand; what you would like to learn more about regarding the particular topic of the week?
-
+<!-- 
 -   **VR Experience (20 points)**
     -   We are going to meet at the end of this semester in Golm for a VR teaching experience.
-    -   More information will be provided later.
+    -   More information will be provided later. -->
 
--   **ICT Toolbox Showcase (60 points)**
+-   **ICT Toolbox Showcase (70 points)**
     -   Everyone will [pick one category of ICT tools](https://bit.ly/3Eri66N) they are most interested in using (<https://bit.ly/3Eri66N>). You will work together with other classmates who's also interested in this category of tools.
     -   During the semester, you will collaboratively gather and evaluate the ICT tools according to a standardized framework.
     -   At the end of the semester, you will present your selection and evaluation of ICT tools as a group. The presentation can take a variety of formats, including (a) regular slides presentation; (b)hands-on workshop; (c) simulation of real lesson; or any otherformats you find appropriate.
@@ -92,11 +91,11 @@ It will be important to follow a few general guidelines to ensure that our lesso
 | 2022-04-25 | W01 Introduction                       |
 | 2022-05-02 | W02 How to Evaluate ICT for Teaching?  |
 | 2022-05-09 | W03 Multi-Media Learning               |
-| 2022-05-16 | W04 VR Experience                      |
-| 2022-05-23 | W05 Embodied Learning (VR/AR)          |
-| 2022-05-30 | W06 Game-Based Learning 1              |
-| 2022-06-13 | W07 Game-Based Learning 2              |
-| 2022-06-20 | W08 Personalized and Adaptive Learning |
+| 2022-05-16 | W04 Embodied Learning (VR/AR)                      |
+| 2022-05-23 | W05 Game-Based Learning 1         |
+| 2022-05-30 | W06 Game-Based Learning 2            |
+| 2022-06-13 | W07 Personalized and Adaptive Learning 1          |
+| 2022-06-20 | W08 Personalized and Adaptive Learning 2|
 | 2022-06-27 | W09 Child Development and Technology   |
 | 2022-07-04 | W10 Cloud-Based Learning 1             |
 | 2022-07-11 | W11 Cloud-Based Learning 2             |
