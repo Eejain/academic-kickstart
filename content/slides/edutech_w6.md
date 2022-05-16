@@ -1,7 +1,7 @@
 +++
-title = "Week 06"
-summary = "embodied learning pt.1"
-date = "2020-02-04"
+title = "Week 04"
+summary = "embodied learning"
+date = "2022-05-16"
 hidden = false
 type = "slide"
 theme = "serif"
@@ -11,7 +11,7 @@ highlight_style = 'dracula'
 +++
 
 ### *Education on the Horizon: Teaching and Learning with Technology*
-## Week 6: Embodied Learning Pt. 1
+## Week 4: Embodied Learning
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
@@ -60,7 +60,7 @@ VR, XR, MR, Metaverse?
 
 ---
 ###  Demo: Augmented virtuality
--augmenting an virtual experience with real-life objects. 
+- augmenting an virtual experience with real-life objects. 
     - [Learning with Google Earth](https://www.google.com/earth/education/)
 
 
