@@ -1,7 +1,7 @@
 +++
 title = "Week 04"
-summary = "game-based learning pt.1"
-date = "2020-02-04"
+summary = "embodied learning"
+date = "2022-05-16"
 hidden = false
 type = "slide"
 theme = "serif"
@@ -11,116 +11,59 @@ highlight_style = 'dracula'
 +++
 
 ### *Education on the Horizon: Teaching and Learning with Technology*
-## Week 4: Game-Based Learning Pt. 1
+## Week 4: Embodied Learning
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
 
 ---
-- A walk-through of the website functions
-    + Where to find all the slides?
-        * Search bar, Tags, Content menu, Timeline
-    * How to watch the slides?
-        - left/right arrow to navigate consecutive slides
-        - esc for overview
-    + How to download the slides?
-        * Print → Save as PDF
+### Clarification of Terms
+VR, XR, MR, Metaverse?
+![](/media/vr2.jpg)
 
 ---
-### Can you describe what is a *game*?
-![](/media/gameful.png)
-
-<!-- some of the features are superficial, some are fundamental-->
-
----
-### Did you think of the following keywords?
-- competitive, has rule/goal, like sports game 
-- fun, can be a social activity, like family game 
-- problem-solving,  you can become better at the game through practice
-- engaging, time-absorbing
-- ...
-
-![](/media/game.png)
+### Virtuality vs. Reality
+- Virtuality is commonly regarded as a self-consistent, fully synthetic world that doesn't have to follow the laws of physics of real world. 
+- Virtuality and reality are not opposites, but more like two ends of a continuum
 
 ---
-###  The big question: Can we implement game-like elements in education, and why?
+###  Mixed Reality (MR)
+![](/media/RV.jpg)
+
+- Real and virtual world objects are presented and experienced together within a single display.
 
 ---
-### Concepts
-- Gamification: the use of game design elements in non-game contexts
-- Gameful learning design: redesigning core elements of a learning environment according to game design principles.
+###  Extended Reality (XR)
+- An emerging umbrella term for all the immersive technologies, the ones we already have today plus those that are still to be created. 
 
 ---
-### Buzzword or Solution?
+###  Metaverse
+- XR supported social networking
+- [Introducing the Metaverse](https://www.youtube.com/watch?v=pjNI9K1D_xo)
+- [Introducing the Icelandverse](https://www.youtube.com/watch?v=enMwwQy_noI)
 
 ---
-###  Demystify Gamification
-- A gameful learning environment doesn't need to look like a video game.
-- Gameful learning is inspired by the game design principles, but more fundamentally, by human psychology.
+###  Demo: Immersive VR
+- multi-sensory realistic experience inside an virtual environment
+- ideal for training situational, adaptive, and complex skills
+
+![](/media/vr_training.png)
 
 ---
-### Let's look at the psychological principles behind the game-based learning 👓
+###  Demo: 360 video
+- [360 video](https://artsandculture.google.com/project/360-videos)
 
 ---
-### Operant Conditioning
-
-- A form of learning (stimulus-response association) 
-- Occurs when a behavior is followed and influenced by certain *consequences*
-- It’s a learning process in which a behavior is sensitive to, or controlled by its consequences. 
+###  Demo: Augmented reality
+- augmenting a real world experience with virtual objects. 
+    + [Learning to draw with AR](https://youtu.be/pNkG5HN4bgY?t=462)
 
 ---
-#### Types of consequences
-
-- If behavior increases or maintained, then the consequence is a "Reinforcement"
-  - Ex: Students are praised for respectfully disagreeing with another classmate; they learn to do this more often in the classroom.
-- If behavior decreases, then the consequence is a "Punishment"
-  - Ex: Students are reprimanded for laughing when a classmate makes a mistake; they don’t like being reprimanded so they stop doing this in the classroom.
+###  Demo: Augmented virtuality
+- augmenting an virtual experience with real-life objects. 
+    - [Learning with Google Earth](https://www.google.com/earth/education/)
 
 
----
-####  Reinforcements in the game are...
- 
-- Constant: every small achievement is rewarded explicitly (experience point, budge, equipment)
-- Well-Defined: it's clear how to get the rewards
-- Varied: visual, auditory, societal...
 
 
----
-####  Reinforcements in a traditional classroom are often...
-
-- Inconsistent: not all students, all improvements can be acknowledged due to large class size
-- Vague: students are confused about their progress
-- Singular: score,  teacher's evaluation
-
----
-####  Punishments in the game are...
- 
-- Minor: lose a game won't cause you real harm
-- Reversible: you can always restart a game and it's OK to practice as long as you want
-- Transparent: you know why you lose the game
-
----
-####  Punishments in the classroom are...
- 
-- Major: high-stake exam 
-- Permanent: once you fail a class, there's nothing much you can do
-- Opaque: you don't know for sure why you fail a class
-
----
-#### Good operant conditioning schedule (like in game) will encourage students to...
-
-- Actively seek challenges
-- Not concerned about failure
-
----
-###  Related talks
-- Learning for own *growth*, not for *avoiding failure*: [growth mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve/up-next?language=en)
-
-
----
-### Take-home points
-
-- Gameful learning environment ≠ Learning in video games
-- It's about using the psychological principles behind good games to motive students 
-- We can learn from games about how to reinforce student's learning process
 

@@ -1,7 +1,7 @@
 +++
 title = "Week 05"
-summary = "game-based learning pt.2"
-date = "2020-02-04"
+summary = "game-based learning pt.1"
+date = "2022-05-23"
 hidden = false
 type = "slide"
 theme = "serif"
@@ -11,110 +11,106 @@ highlight_style = 'dracula'
 +++
 
 ### *Education on the Horizon: Teaching and Learning with Technology*
-## Week 5: Game-Based Learning Pt. 2
+## Week 5: Game-Based Learning Pt. 1
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
 
 ---
-### Recap
-- Game is a structured form of play, usually for enjoyment.
-- Gameful learning redesigns core elements of a learning environment according to game design principles.
-- These principles are fundamentally psychological.
+### Can you describe what is a *game*?
+![](/media/gameful.png)
+
+<!-- some of the features are superficial, some are fundamental-->
 
 ---
-### Your thoughts from last week
-- "Praising every achievement maybe manipulative"
-- Borrowing game elements mindlessly won't magically motivate students
-    - But it's important to understand why good game are so motivating and what we can learn from them
-    - A good game-based learning environment can motivate student intrinsically 
+### Did you think of the following keywords?
+- competitive, has rule/goal, like sports game 
+- fun, can be a social activity, like family game 
+- problem-solving,  you can become better at the game through practice
+- engaging, time-absorbing
+- ...
+
+![](/media/game.png)
 
 ---
-### Motivation, the force that drives us
-- Behavior is motivated by internal (intrinsic) or external (extrinsic) incentives 
-    - Extrinsic – attention, praise, grades, rewards, money etc. 
-        + powerful only in short term
-    - Intrinsic – feeling of satisfaction, competence, growth, progress etc.
-        + lasting effect 
-- [Dan Pink's Talk on Motivation](https://www.youtube.com/watch?v=u6XAPnuFjJc)
+###  The big question: Can we implement game-like elements in education, and why?
 
 ---
-### How to promote intrinsic motivation?
-- Self-determination theory: three conditions for supporting intrinsic motivation
-- Autonomy, competence (mastery) and belonging (meaning)
-- These three factors can explain why games are intrinsically motivating, and what kind of learning environment we are after. 
-
-<!-- let's more formally define what dan pink has described in the video, self-determination theory talks about three conditions that need to be taken care of -->
+### Concepts
+- Gamification: the use of game design elements in non-game contexts
+- Gameful learning design: redesigning core elements of a learning environment according to game design principles.
 
 ---
-###  Autonomy
-- In game: usually we choose what game we want to play
-- Ideal learning environment: the learner seeing himself or herself as the primary locus of control'
+### Buzzword or Solution?
 
 ---
-###  Autonomy: example
-- Explore in safe environment enables sense of autonomy
-- Games enabling players to take risks by reducing the negative consequences associated with failure. 
-    - giving a player infinite lives, freedom to explore the game safe in the knowledge that mistakes will not result in permanent failure. 
+###  Demystify Gamification
+- A gameful learning environment doesn't need to look like a video game.
+- Gameful learning is inspired by the game design principles, but more fundamentally, by human psychology.
 
 ---
-###  Autonomy: example
-- In a gameful course, this same feeling can be established
-    - allowing students to redo assignments multiple times to achieve mastery
-    - providing alternate assignments that mitigate the impact of failed attempts
-    - allow for free exploration
+### Let's look at the psychological principles behind the game-based learning 👓
 
 ---
-###  Assassin’s Creed - Odyssey tours
-- Interactive tours for learning about Ancient Greek
-- Quiz at the end of the tour: righ or wrong, students will get more information about the topic
-- [demo video](https://www.youtube.com/watch?v=G5xBc63LVC8)
+### Operant Conditioning
 
-![](/media/assasincreeddemo1.png)
-
-<!-- 20:32 quiz -->
+- A form of learning (stimulus-response association) 
+- It’s a learning process in which a behavior is sensitive to, or controlled by its consequences. 
 
 ---
-###  Competence (Mastery)
-- In game: you know for sure you can become better at playing the game (progress/current status is clear)
-- Ideal learning environment: learners engage with course contents because they feel that they can do so successfully
+#### Types of consequences
+
+- If behavior increases or maintained, then the consequence is a "Reinforcement"
+  - Ex: Students are praised for respectfully disagreeing with another classmate; they learn to do this more often in the classroom.
 
 ---
-### Competence: Token system
-- Token system in Pokemon Go 
-- Similar system can also be used to motivate and help students keep track of progress
-- Tokens are not designed to manipulate students to fish for prizes, but to show clearly what’s the progress, and what to do next
-
-![](/media/pokemonbadge.png)
+- If behavior decreases, then the consequence is a "Punishment"
+  - Ex: Students are reprimanded for laughing when a classmate makes a mistake; they don’t like being reprimanded so they stop doing this in the classroom.
 
 ---
-### Competence: Token system
-- Here's an example token system from Khan Academy (an online learning service)
-
-![](/media/khanbadge.png)
-
----
-###  Competence: EP system
-![](/media/leveloper1.png)
-
----
-###  Competence: EP system
-![](/media/leveloper2.png)
-
----
-###  Belonging (Meaning)
-- In game: grow together with the community
-- Ideal learning environment: learners feel connected to their teachers and peers
-- Can you think of some strategies of connecting students and instructors during online learning (such as this seminar)?
+####  Reinforcements in the game are...
+ 
+- Constant: every small achievement is rewarded explicitly (experience point, budge, equipment)
+- Well-Defined: it's clear how to get the rewards
+- Varied: visual, auditory, societal...
 
 
 ---
-###  Gameful learning environment: example
-- [GradeCraft](https://www.gradecraft.com/)
-    - [A short intro](https://www.youtube.com/watch?v=kxb3wVwmYyc)
-    - [Gradecraft founder talk](https://www.youtube.com/watch?v=k0NaJpQbwA0)
-<!--     - 0 up instead of 100 down
-    - visualize progress 
-    - alternative assessment pathways 
-    - create own learning plan
-    - adaptive content  -->
+####  Reinforcements in a traditional classroom are often...
+
+- Inconsistent: not all students, all improvements can be acknowledged due to large class size
+- Vague: students are confused about their progress
+- Singular: score,  teacher's evaluation
+
+---
+####  Punishments in the game are...
+ 
+- Minor: lose a game won't cause you real harm
+- Reversible: you can always restart a game and it's OK to practice as long as you want
+- Transparent: you know why you lose the game
+
+---
+####  Punishments in the classroom are...
+ 
+- Major: high-stake exam 
+- Permanent: once you fail a class, there's nothing much you can do
+- Opaque: you don't know for sure why you fail a class
+
+---
+#### Good operant conditioning schedule (like in game) will encourage students to...
+
+- Actively seek challenges
+- Not concerned about failure
+
+---
+###  Related talks
+- Learning for own *growth*, not for *avoiding failure*: [growth mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve/up-next?language=en)
+
+
+---
+### Take-home points
+
+- Gameful learning environment ≠ Learning in video games
+- It's about using the psychological principles behind good games to motive students 
+- We can learn from games about how to reinforce student's learning process
+
