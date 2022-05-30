@@ -1,7 +1,7 @@
 +++
 title = "Week 06"
 summary = "game-based learning pt.2"
-date = "2020-02-04"
+date = "2022-05-30"
 hidden = false
 type = "slide"
 theme = "serif"
@@ -26,7 +26,7 @@ highlight_style = 'dracula'
 ### Your thoughts from last week
 - "Praising every achievement maybe manipulative"
 - Borrowing game elements mindlessly won't magically motivate students
-    - But it's important to understand why good game are so motivating and what we can learn from them
+    - But it's important to understand why good games are so motivating and what we can learn from them
     - A good game-based learning environment can motivate student intrinsically 
 
 ---
@@ -105,7 +105,7 @@ highlight_style = 'dracula'
 ###  Belonging (Meaning)
 - In game: grow together with the community
 - Ideal learning environment: learners feel connected to their teachers and peers
-- Can you think of some strategies of connecting students and instructors during online learning (such as this seminar)?
+- Can you think of some strategies of connecting students and instructors during online learning?
 
 
 ---
@@ -113,8 +113,4 @@ highlight_style = 'dracula'
 - [GradeCraft](https://www.gradecraft.com/)
     - [A short intro](https://www.youtube.com/watch?v=kxb3wVwmYyc)
     - [Gradecraft founder talk](https://www.youtube.com/watch?v=k0NaJpQbwA0)
-<!--     - 0 up instead of 100 down
-    - visualize progress 
-    - alternative assessment pathways 
-    - create own learning plan
-    - adaptive content  -->
+

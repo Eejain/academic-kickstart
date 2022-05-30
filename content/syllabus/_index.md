@@ -86,21 +86,21 @@ It will be important to follow a few general guidelines to ensure that our lesso
 
 ## <span class="section-num">6</span> Class Schedule [^fn:3] {#class-schedule}
 
-| Dates      | Topic                                  |
-|------------|----------------------------------------|
-| 2022-04-25 | W01 Introduction                       |
-| 2022-05-02 | W02 How to Evaluate ICT for Teaching?  |
-| 2022-05-09 | W03 Multi-Media Learning               |
-| 2022-05-16 | W04 Embodied Learning (VR/AR)                      |
-| 2022-05-23 | W05 Game-Based Learning 1         |
-| 2022-05-30 | W06 Game-Based Learning 2            |
-| 2022-06-13 | W07 Personalized and Adaptive Learning 1          |
-| 2022-06-20 | W08 Personalized and Adaptive Learning 2|
-| 2022-06-27 | W09 Child Development and Technology   |
-| 2022-07-04 | W10 Cloud-Based Learning 1             |
-| 2022-07-11 | W11 Cloud-Based Learning 2             |
-| 2022-07-18 | W12 Showcase Day 1                     |
-| 2022-07-25 | W13 Showcase Day 2                     |
+| Dates      | Topic                                    |
+|------------|------------------------------------------|
+| 2022-04-25 | W01 Introduction                         |
+| 2022-05-02 | W02 How to Evaluate ICT for Teaching?    |
+| 2022-05-09 | W03 Multi-Media Learning                 |
+| 2022-05-16 | W04 Embodied Learning (VR/AR)            |
+| 2022-05-23 | W05 Game-Based Learning 1                |
+| 2022-05-30 | W06 Game-Based Learning 2                |
+| 2022-06-13 | W07 Personalized and Adaptive Learning 1 |
+| 2022-06-20 | W08 Personalized and Adaptive Learning 2 |
+| 2022-06-27 | W09 Child Development and Technology     |
+| 2022-07-04 | W10 Cloud-Based Learning 1               |
+| 2022-07-11 | W11 Cloud-Based Learning 2               |
+| 2022-07-18 | W12 Showcase Day 1                       |
+| 2022-07-25 | W13 Showcase Day 2                       |
 
 [^fn:1]: Disclaimer: The instructor reserves the right to modify the course syllabus if necessary and will make formal announcements of these changes in class and provide written notice of changes via email. Students are responsible for noting those changes.
 [^fn:2]: The course site contains outdated slides from past semesters, please pay attention to the timestamp
