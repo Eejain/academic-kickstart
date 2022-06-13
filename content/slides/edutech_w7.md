@@ -2,7 +2,7 @@
 title = "Week 07"
 summary = "emobodied learning pt.2"
 date = "2020-02-05"
-hidden = false
+hidden = true
 type = "slide"
 theme = "serif"
 [revealOptions]

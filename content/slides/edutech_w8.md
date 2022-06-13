@@ -1,7 +1,7 @@
 +++
-title = "Week 08"
+title = "Week 07"
 summary = "personalized and adaptive learning pt.1"
-date = "2020-02-05"
+date = "2022-06-13"
 hidden = false
 type = "slide"
 theme = "serif"
@@ -11,23 +11,23 @@ highlight_style = 'dracula'
 +++
 
 ### *Education on the Horizon: Teaching and Learning with Technology*
-## Week 8: Personalized and Adaptive Learning Pt. 1
+## Week 7: Personalized and Adaptive Learning Pt. 1
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
 
 ---
-###  Have you experienced these in your daily life?
+###  Have you experienced these in your everyday life?
 - YouTube suggests new videos based on what you have watched
-- Your iPhone labels every photo with your face in it
+- Your smart phone can automatically create an album with photos with your face in it
 - You have to prove "I'm not a robot" during login
 - These are possible because of “artificial intelligence” (AI)
 
 ![](/media/captcha.jpg)
 
 ---
-###  What is artificial intellilgence (AI)?
-- "AI are cool things that computer programs can't do."
+###  What is artificial intelligence (AI)?
+- AI are intelligent computer programs that mimic the problem-solving and decision-making capabilities of the human mind 
 - Traditional computer program: Input → Output is predetermined
 - AI: Input → Output is conditional
     - training data → algorithm → real data
@@ -38,7 +38,7 @@ highlight_style = 'dracula'
 - Adaptivity: The ability to improve performance by learning from experience.
 
 ---
-###  Why is it intelligent?
+###  Why is it "intelligent"?
 - Learning is the acquisition of associations: what input leads to what output 
 - AI can make inferences about new inputs based on learned associations
 - Therefore AI is capable of "learning" based on "past experience", similar to human decision making
@@ -46,16 +46,34 @@ highlight_style = 'dracula'
 
 ---
 ###  Some interesting AI demos
-- [Create landscape from section map](http://gaugan.org/gaugan2/)
-- [Generative art](https://app.wombo.art/)
-- [Create whole paragraph from words](https://talktotransformer.com/)
-- [Create anime styled selfies](https://waifu.lofiu.com/)
-- [How about oil-painting styled selfies](https://ai-art.tokyo/en/)
-- [Generative story](https://ai-adventure.appspot.com/)
+
+---
+## Text
+- [AI writes news](https://talktotransformer.com/)
+- [AI writes your email](https://app.flowrite.com/write)
+
+---
+## Graphic
+- [AI draws landscape](http://gaugan.org/gaugan2/)
+- [AI draws anything based on your text](https://openai.com/blog/dall-e/)
+- [Another competitor](https://imagen.research.google/)
+- [AI creates art](https://app.wombo.art/)
+<!-- - [Create anime styled selfies](https://waifu.lofiu.com/) -->
+<!-- - [How about oil-painting styled selfies](https://ai-art.tokyo/en/) -->
+<!-- - [Generative story](https://ai-adventure.appspot.com/) -->
+<!-- - [AI guessing memes](https://twitter.com/ResNeXtGuesser/status/1477391701807300608) -->
+<!-- - [more demos](https://www.nvidia.com/en-us/research/ai-demos/) -->
+
+
+---
+## Voice and Sound
 - [Deep fake voice](https://fakeyou.com/)
-- [AI guessing memes](https://twitter.com/ResNeXtGuesser/status/1477391701807300608)
-- [AI conversations](https://www.youtube.com/watch?v=jz78fSnBG0s)
-- [more demos](https://www.nvidia.com/en-us/research/ai-demos/)
+- [Generative music](https://www.nvidia.com/en-us/research/ai-art-gallery/artists/aiva/)
+
+---
+## Moving AI
+- [AI talk to human](https://youtu.be/BpnnD_0IlbE?t=380)
+- [AI talk to AI](https://www.youtube.com/watch?v=jz78fSnBG0s)
 
 ---
 ###  Mini Quiz: Are they AI?
