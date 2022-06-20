@@ -1,7 +1,7 @@
 +++
-title = "Week 09"
+title = "Week 08"
 summary = "personalized and adaptive learning pt.2"
-date = "2020-02-04"
+date = "2022-06-20"
 hidden = false
 type = "slide"
 theme = "serif"
@@ -11,15 +11,42 @@ highlight_style = 'dracula'
 +++
 
 ### *Education on the Horizon: Teaching and Learning with Technology*
-## Week 9: Personalized and Adaptive Learning Pt. 2
+## Week 8: Personalized and Adaptive Learning Pt. 2
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
 
+---
+###  Mini Quiz: Are they AI?
+- Spreadsheet that calculates sums and other pre-defined functions on given data
+- Predicting the stock market by fitting a curve to past data about stock prices
+- A GPS navigation system for finding the fastest route
+- A music recommendation system such as Spotify that suggests music based on the users' listening behavior
+- Big data storage solutions that can store huge amounts of data (such as images or video) and stream them to many users at the same time
+- Photo editing features such as brightness and contrast in applications such as Photoshop
+- Style transfer filters in applications such as Prisma that take a photo and transform it into different art styles (impressionist, cubist, ...)
 
 ---
-###  One size doesn't fit all
-[The end of average](https://www.youtube.com/watch?v=4eBmyttcfU4)
+###  Answers
+- [Answers](https://course.elementsofai.com/1/1)
+
+---
+###  AI Application in education?
+
+---
+###  Auto-grading
+- How does it work?
+- [for English assignment](https://gradingly.com/) 
+<!-- - [example](https://www.codio.com/features/auto-grading) -->
+
+---
+###  Critism
+Essay-scoring engines don’t actually analyze the quality of writing. They’re trained on sets of hundreds of example essays to recognize patterns that correlate with higher or lower human-assigned grades. 
+
+
+<!-- --- -->
+<!-- ###  One size doesn't fit all -->
+<!-- [The end of average](https://www.youtube.com/watch?v=4eBmyttcfU4) -->
 
 ---
 ###  Differentiated Instruction
