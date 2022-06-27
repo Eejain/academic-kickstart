@@ -163,5 +163,11 @@ A Fairy-Tale-King invites you to sit down in front of him…
 - [Boost metacognition in classroom](http://www.spencerauthor.com/metacognition/)
 - [Classroom activities for metacognition](https://resources.depaul.edu/teaching-commons/teaching-guides/learning-activities/Pages/activities-for-metacognition.aspx)
 
+---
+### Take home message
+- Media is not evil for kid's development 
+- Children's learning needs to be scaffolded with consideration to 
+    - their cognitive development stage
+    - their metacognition strategy
 
 
