@@ -1,7 +1,7 @@
 +++
-title = "Week 10"
-summary = "child development and technology"
-date = "2020-02-04"
+title = "Week 09"
+summary = "Child development and technology"
+date = "2022-06-27"
 hidden = false
 type = "slide"
 theme = "serif"
@@ -11,7 +11,7 @@ highlight_style = 'dracula'
 +++
 
 ### *Education on the Horizon: Teaching and Learning with Technology*
-## Week 10: Child Development and Technology 
+## Week 09: Child Development and Technology 
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
@@ -60,6 +60,71 @@ highlight_style = 'dracula'
 ### Children's cognitive development
 - Children's *thinking* is fundamentally *different* from adult's
 - Educational content has to match the children's cognitive development stage (not necessarily their ages) and promote "metacognition"
+---
+###  Piaget's theory
+- Development is characterized by a sequence of *stages*
+- Each stage builds on preceding stages, but is qualitatively unique
+- Children need to accomplish the essential task of one stage in order to enter the next
+
+---
+![](/media/piaget.png)
+
+---
+### Sensorimotor stage: Object permanence
+
+
+![](/media/peekaboo.jpg)
+
+- The task of sensorimotor stage is understanding object's presence is absolute
+- [peekaboo](https://www.youtube.com/watch?v=YYG8ronqFVA)
+
+---
+### Pre-operational stage: Theory of mind
+
+- The task of pre-operational stage is understanding other people also have their own thinking
+- Can you solve the question on the left?
+
+![](/media/tom.jpg)
+
+---
+### Three mountain experiment
+
+- Another classic test to check if children can understand theory of mind
+- The child has to answer what kind of view the doll is looking at
+
+![](/media/3mountain.jpg)
+
+---
+
+### Concrete operational stage: Conservation problem
+
+- Can you tell me which container in picture c has more liquid?
+- At the end of concrete operational stage, children should be able to solve this conservation problem 
+
+![](/media/conservationprob.jpg)
+
+---
+### Formal operational stage: Abstract reasoning
+
+- In the last stage of cognitive development, children need to understand abstarct concept
+
+
+![](/media/formula.png)
+
+---
+### Let's test your knowledge
+
+Patricia is upset because she is convinced that her brother has a bigger piece of cake than she does. Her dad quickly slices Patricia's piece of cake in two and tells her that she now has "more" cake. If Patricia calms down and is convinced that she does have more cake than her brother, it would suggest that she:
+
+A.  has not yet mastered object permanence.
+
+B.  does not understand the process of assimilation.
+
+C.  does not yet understand conservation.
+
+D.  is displaying egocentric reasoning.
+
+And at what stage she will be acquiring that ability? 
 
 ---
 A Fairy-Tale-King invites you to sit down in front of him… 

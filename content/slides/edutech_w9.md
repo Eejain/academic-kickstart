@@ -1,5 +1,5 @@
 +++
-title = "Week 08"
+Title = "Week 08"
 summary = "personalized and adaptive learning pt.2"
 date = "2022-06-20"
 hidden = false
