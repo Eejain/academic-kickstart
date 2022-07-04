@@ -1,7 +1,7 @@
 +++
-title = "Week 12"
+title = "Week 10"
 summary = "cloud-based learning pt.1"
-date = "2020-02-04"
+date = "2022-07-04"
 hidden = false
 type = "slide"
 theme = "serif"
@@ -11,7 +11,7 @@ highlight_style = 'dracula'
 +++
 
 ### *Education on the Horizon: Teaching and Learning with Technology*
-## Week 12: Cloud-based Learning  Pt. 1
+## Week 10: Cloud-based Learning  Pt. 1
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
@@ -36,7 +36,7 @@ Social media platforms
 
 ---
 ###  Demos: webinar
-- [Webinars from University of Notre Dame](https://summeronline.nd.edu/course-list/)
+- [Webinars from University of Notre Dame](https://summeronline.nd.edu/)
     + free, but only for currently enrolled students
 - [Webinars by Harvard Business School](https://online.hbs.edu/)
     + for everyone, but ask for tuition
@@ -52,7 +52,7 @@ Social media platforms
 ###  Demos: Other cloud-based learning platform
 - [Master Class](https://www.masterclass.com/): for-profit, learn from top professionals, short-format
 - [Skillshare](https://www.skillshare.com/): for-profit, learn from individuals, short-format
-- [Lynda.com](https://www.lynda.com/): for-profit, professional development
+- [Lynda.com/LinkedinLearn](https://www.lynda.com/): for-profit, professional development
 
 ---
 ###  Demos: Other cloud-based learning platform
@@ -94,6 +94,8 @@ Social media platforms
 - Optional reading: [The Wolf in Sheep’s Clothing: The Matthew Effect in Online Education](https://hipatiapress.com/hpjournals/index.php/rise/article/view/789)
 
 ---
-### Bonus resources
+### Relevance for Teacher Education 
 - [Teach-Now](https://teach-now.edu/): getting a teaching certificate through online training
 - What do you think of this certification program? 
+- What were your general impressions about online learning in the teacher education program? 
+
