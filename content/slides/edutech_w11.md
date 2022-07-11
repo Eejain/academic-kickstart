@@ -2,7 +2,7 @@
 title = "Week 11"
 summary = "child development and technology pt.2"
 date = "2020-02-04"
-hidden = false
+hidden = true
 type = "slide"
 theme = "serif"
 [revealOptions]
