@@ -28,10 +28,28 @@ highlight_style = 'dracula'
 - What do you think of this certification program? 
 
 ---
-###  Integrate cloud element to traditional instruction: An example
+###  Pros and cons of cloud-based instruction
+
+> I studied at the Fernuniversität Hagen. It’s a university  more or less completely based on cloud based learning....I love, that i am very flexible in how i study and when i study. I also enjoy that i can study and read for myself. ...But i really miss talking about the subjects with other students. 
+
+- What were your general impressions about online learning in the teacher education program in the past year ? 
 
 ---
-###  Have you taking margin notes on your books before?
+###  What makes an effective seminar also makes a great webinar
+- have "coffee break" for social talk
+- every participant work together to achieve a shared goal (with Google Doc or other cloud-based tools)
+- have variety of activities 
+- check in and wrap up
+- what do you think it's important for an engaging online seminar? 
+
+---
+###  Cloud-based but without videos 
+- requires less technology, but still engaging 
+- useful also for leaners who prefer textual, asynchronous discussion 
+
+---
+### Example 1
+Have you taking margin notes on your books before?
 
 ---
 ###  Why do you annotate?
@@ -50,22 +68,12 @@ highlight_style = 'dracula'
 - facilitate knowledge comprehension, tansmission, communication and even creation 
 
 ---
-###  Demo with this slide!
+
+## Demo with this slide!
 
 ---
-###  Pros and cons of cloud-based instruction
-
-> I studied at the Fernuniversität Hagen. It’s a university  more or less completely based on cloud based learning....I love, that i am very flexible in how i study and when i study. I also enjoy that i can study and read for myself. ...But i really miss talking about the subjects with other students. 
-
-- What were your general impressions about online learning in the teacher education program in the past year ? 
-
----
-###  What makes an effective seminar also makes a great webinar
-- have "coffee break" for social talk
-- every participant work together to achieve a shared goal (with Google Doc or other cloud-based tools)
-- have variety of activities 
-- check in and wrap up
-- what do you think it's important for an engaging online seminar? 
+### Example 2
+- [learning on social media](https://twitter.com/eric_richter_/status/1518408194413891585)
 
 
 <!-- --- -->
