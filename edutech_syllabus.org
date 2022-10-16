@@ -1,0 +1,192 @@
+* Header Information                                               :noexport:
+#+TITLE:    [edutech] Education on the Horizon: Teaching and Learning with Technology Syllabus
+#+DATE: <2022-10-16 Sun>
+#+AUTHOR:    Dr. Yizhen (Eejain) Huang
+#+EMAIL:     yihuang@uni-potsdam.de
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:nil toc:nil
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+STARTUP: overview
+
+* Course Information [fn:1] :potsdam:
+
+- *Semester*: Winter 2022/2023
+- *Time*: Mondays (2022-10-24--2023-02-06)
+  - Gruppe1: 12:00--14:00
+  - Gruppe2: 14:00--16:00
+- *Location*: Campus Golm, 2.14. 0.15
+- *Course Site*: https://edutech.netlify.com/ [fn:2]
+
+* Instructor Information
+
+- *Instructor*: Dr. Yizhen (Eejain) Huang
+- *Office*: Campus Golm, Haus 24, Room 2.81
+- *Office hours*: 14:00--16:00, Tuesday or by appointment
+- *Email*: /yihuang@uni-potsdam.de/ (Please use English for
+  communication and put [edutech] in the subject line, I will respond
+  within 2 business days)
+
+* Course Objectives
+
+What does the future of education entail? Does traditional pedagogy still hold true when instructional technology evolves at a rate greater than ever before? This course is intended to map the present landscape of information and communications technology (ICT) used for education, to reflect on their benefits as well as potential drawbacks, and to connect new technology with old ideas.
+
+Specifically, we will examine traditional learning theories from new perspectives, explore best practices for using various technologies for teaching, and apply what we have learned in your specific subject settings. We will cover topics including multi-media learning, game-based learning, embodied learning (VR/AR/XR), personalized and adaptive learning, child development and technology, and cloud-based learning.
+
+* Competence Goal and Evaluation
+
+I hope by the end of this seminar, you would be able to: a) have a good overview of what digital tools are available for educators in the market; b) be able to evaluate and select digital tools for your subjects; c) explore how to keep up with the ever-changing field of information and communications technology.
+
+The evaluation of such goals will be based on your performance in weekly reflection and showcasing ICT tools. There will be no quizzes or tests. Please see below for a detailed description of each task.
+
+| Class Component      | Points | Percentage of Total Points |
+|----------------------+--------+----------------------------|
+| Weekly Reflection    |     20 |                        20% |
+| VR Experience        |     20 |                        20% |
+| ICT Toolbox Showcase |     60 |                        60% |
+| Total                |    100 |                       100% |
+
+| Percentage of Total Points | Final Grade |
+|----------------------------+-------------|
+| 95%--100%                  | 1.0         |
+| 90%--94.5%                 | 1.3         |
+| 85%--89.5%                 | 1.7         |
+| 80%--84.5%                 | 2.0         |
+| 75%--79.5%                 | 2.3         |
+| 70%--74.5%                 | 2.7         |
+| 65%--69.5%                 | 3.0         |
+| 60%--64.5%                 | 3.3         |
+| 55%--59.5%                 | 3.7         |
+| 50%--54.5%                 | 4.0         |
+| 0%--49.5%                  | 5.0         |
+
+- *Weekly Reflection (20 points)*
+  - Everyone will submit a short response in our shared [[https://bit.ly/3Op3gm4][OneNote notebook]] after each meeting.
+  - In the response, please write down in bullet points: what you have learned; what you don't quite understand; what you would like to learn more about regarding the particular topic of the week?
+
+- *VR Experience (20 points)*
+  - We are going to meet in late November in Golm for a VR teaching experience.
+  - More information will be provided later.
+
+- *ICT Toolbox Showcase (60 points)*
+  - Everyone will [[https://bit.ly/3Eri66N][pick one category of ICT tools]] they are most interested in using (https://bit.ly/3Eri66N). You will work together with other classmates who's also interested in this category of tools.
+  - During the semester, you will collaboratively gather and evaluate the ICT tools according to a standardized framework.
+  - At the end of the semester, you will present your selection and evaluation of ICT tools as a group. The presentation can take a variety of formats, including (a) regular slides presentation; (b)hands-on workshop; (c) simulation of real lesson; or any otherformats you find appropriate.
+  - We'll introduce this task further on the second week.
+
+- *Bonus: Annotate the Course Website (no points, but more fun)*
+  - As you will find all the materials in our course website, I also encourage you to use online annotation tool [[https://web.hypothes.is/][hypothes.is]] to share your thoughts about our course slides and other contents directly on the webpage.
+
+# - **General Workflow**
+#     - Due to the current university policy, this course will be conducted purely online.
+#     - Each week I will provide instructional contents in the format of
+#     interactive slides or videos on Moodle. You are expected to consume the content at your
+#     own pace and finish the accompanied tasks.
+#     - Then you will join a synchronous weekly discussion on Discord at our regular class time (Tuesdays, 10 am - 12 pm).
+#     - We'll cover one topic every two weeks, first week being a general overview
+#     of the topic and second week will be tailored to the discussions you posted on
+#     first week.
+# - **Weekly Discussion**
+#     - Each week, you will find the instructional content under "What you need to
+#     watch" section, and the accompanied tasks including weekly discussions under
+#     "What you need to do" section.
+#     - We'll utilize Discord (a forum-like instant messaging tool) for the weekly discussion.
+#     - The weekly discussion will be hosted each Tuesday from 10 am to 12 pm. Please post in
+#     the discussion channel of what you have learned from the slides and your reflections about the content.
+# - **Final Presentation**
+#     - Everyone will pick one topic they are most interested in and design an learning activity, a lesson, or any unit of instruction based on this topic of choice.
+#     - You will work together with other classmates who's also interested in this topic.
+#     - The presentation can take a variety of formats, including (a) regular slides presentation; (b) hands-on workshop; (c) simulation of real lesson; or any other formats you find appropriate.
+#     - More detailed instruction will be posted later.
+
+* Weekly reflection instruction :noexport:
+
+In the corresponding section to this week's topic, please write down your answers to the following questions: 
+[Your Capitalized Initials]
+- What have you learned this week?
+- What you don't quite understand?
+- What you would like to learn more about regarding the particular topic of the week?
+
+Here's an example just for your reference: 
+[EH]
+What have you learned this week?
+Today I learned about simulated practice and how it can help with bridging knowledge and acquiring real-life skill. Furthermore, I learned about affordable XR videos that can be used in class.
+What you don't quite understand?
+What I don't quite understand is the rubber hand illusion, I don't understand why people think they get hurt, I don't understand this phenomenon.
+What you would like to learn more about regarding the particular topic of the week?
+I want to know more about the 360 videos. It's really cool to see those human organs from inside and be able to have a 360 degree view.
+
+Thank you for being a reflective learner! 
+
+* Class Policies
+
+It will be important to follow a few general guidelines to ensure that our lessons run smoothly and are enjoyable for everyone.
+
+- Please comply with the [[https://www.uni-potsdam.de/en/presse/press/latest-news/coronavirus#c508395][general distance and hygiene requirements of the University of Potsdam]]. Until further notice, the wearing of a medical mask is mandatory in all university buildings at the University of Potsdam. This also applies to lecture halls, seminar rooms (also during the courses), laboratories, libraries and computer labs.
+- Class will officially starts 15 minutes after the meeting time. There will be no class break so we can end class earlier.
+- This course is provided in English since I can't speak German (yet). I also encourage you using English within group activities so that I can better facilitate your learning process. But don't struggle with language if you feel more comfortable using German to communicate with your peers.
+- When engaging in discussions please be respectful and relevant. Being respectful includes addressing ideas offered by classmates in a constructive manner. Being relevant requires that comments made in class relate to the material in a way that enriches our learning. Everyone should and will have the chance to contribute to discussions.
+
+# , please test out your camera and audio during this preparation time.
+# - There's no requirement for you to turn on the camera, but I would really appreciate seeing/hearing your response during our seminar.
+# - Last but not least, let's be present together even at an online meeting :)
+
+* Class Schedule [fn:3]
+
+|      Dates | Topic                                   |
+|------------+-----------------------------------------|
+| 2022-10-24 | W01: Introduction                       |
+| 2022-11-07 | W02: How to Evaluate ICT for Teaching?  |
+| 2022-11-14 | W03: Multi-Media Learning               |
+| 2022-11-21 | W04: Embodied Learning (VR/AR)          |
+| 2022-11-28 | W05: VR Experience                      |
+| 2022-12-05 | W06: Game-Based Learning 1              |
+| 2022-12-12 | W07: Game-Based Learning 2              |
+| 2023-01-02 | W08: Personalized and Adaptive Learning |
+| 2023-01-09 | W09: Child Development and Technology   |
+| 2023-01-16 | W10: Cloud-Based Learning 1             |
+| 2023-01-23 | W11: Cloud-Based Learning 2             |
+| 2023-01-30 | W12: Showcase Day 1                     |
+| 2023-02-06 | W13: Showcase Day 2                     |
+
+# |                 Dates | Topic                                |
+# | --------------------- | ----------------------------------   |
+# |            2020-04-28 | Introduction                         |
+# |            2020-05-05 | Multi-media Learning 1               |
+# |            2020-05-12 | Multi-media Learning 2               |
+# |            2020-05-19 | Game-based Learning 1                |
+# |            2020-05-26 | Game-based Learning 2                |
+# |            2020-06-02 | Personalized and Adaptive Learning 1 |
+# |            2020-06-09 | Personalized and Adaptive Learning 2 |
+# |            2020-06-16 | Child Development and Technology 1   |
+# |            2020-06-23 | Child Development and Technology 2   |
+# |            2020-06-30 | Cloud-based Learning 1               |
+# |            2020-07-07 | Cloud-based Learning 2               |
+# |            2020-07-14 | Final Presentation 1                 |
+# |            2020-07-21 | Final Presentation 2                 |
+
+
+
+# |      Dates | Topic                                    |
+# |------------+------------------------------------------|
+# | 2021-10-25 | W01 Introduction                         |
+# | 2021-11-01 | W02 How to Evaluate ICT for Teaching?    |
+# | 2021-11-08 | W03 VR Experience                        |
+# | 2021-11-15 | W04 Multi-Media Learning 1               |
+# | 2021-11-22 | W05 Game-Based Learning 1                |
+# | 2021-11-29 | W06 Game-Based Learning 2                |
+# | 2021-12-06 | W07 Embodied Learning (VR/AR) 1          |
+# | 2021-12-13 | W08 Embodied Learning (VR/AR) 2          |
+# | 2022-01-03 | W09 Personalized and Adaptive Learning 1 |
+# | 2022-01-10 | W10 Personalized and Adaptive Learning 2 |
+# | 2022-01-17 | W11 Child Development and Technology     |
+# | 2022-01-24 | W12 Cloud-Based Learning 1               |
+# | 2022-01-31 | W13 Cloud-Based Learning 2               |
+# | 2022-02-07 | W14 Showcase Day 1                       |
+# | 2022-02-14 | W15 Showcase Day 2                       |
+
+[fn:1] Disclaimer: The instructor reserves the right to modify the course syllabus if necessary and will make formal announcements of these changes in class and provide written notice of changes via email. Students are responsible for noting those changes upon notification.
+[fn:2] The course site contains outdated slides from past semesters, please pay attention to the timestamp.
+[fn:3] Days without Instruction: 2022-10-31 (Reformation Day), 2022-12-19 to 2022-12-30 (Christmas break)
+
+# [fn:2] Days without Instruction: 2021-12-20 to 2021-12-31 (Christmas break)

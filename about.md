@@ -9,7 +9,7 @@ This is the course site accompanying the seminar "Education on the Horizon: Teac
 
 
 ## Find the Instructor Elsewhere
-- [All in one link](https://withkoji.com/@Eejain)
+- [All in one link](https://eejain.com/)
 - [ORCiD](https://orcid.org/0000-0002-7041-1927)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&pli=1&user=0JRtAtkAAAAJ)
 - [Twitter](https://twitter.com/EejainH)
