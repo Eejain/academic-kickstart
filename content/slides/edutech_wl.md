@@ -2,7 +2,7 @@
 title = "Week 13"
 summary = "last words"
 date = "2022-07-25"
-hidden = false
+hidden = true
 type = "slide"
 theme = "serif"
 [revealOptions]

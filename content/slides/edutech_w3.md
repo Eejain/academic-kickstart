@@ -2,7 +2,7 @@
 title = "Week 03"
 summary = "multimedia learning"
 date = "2022-05-09"
-hidden = false
+hidden = true
 type = "slide"
 theme = "serif"
 [revealOptions]

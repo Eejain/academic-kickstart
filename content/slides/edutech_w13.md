@@ -2,7 +2,7 @@
 title = "Week 11"
 summary = "cloud-based learning pt.2"
 date = "2022-07-11"
-hidden = false
+hidden = true
 type = "slide"
 theme = "serif"
 [revealOptions]

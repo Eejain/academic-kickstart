@@ -1,7 +1,7 @@
 +++
 title = "Week 01"
 summary = "slides for the course introduction"
-date = "2022-04-25"
+date = "2022-10-24"
 hidden = false
 weight = 1
 type = "slide"
@@ -11,13 +11,28 @@ transition = 'Convex'
 highlight_style = 'dracula'
 +++
 
-
 ### *Education on the Horizon: Teaching and Learning with Technology*
 ## Week 1: Introduction 
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
 
+---
+| Dates      | Topic                                   |
+|------------|-----------------------------------------|
+| 2022-10-24 | **W01: Introduction**                   |
+| 2022-11-07 | W02: How to Evaluate ICT for Teaching?  |
+| 2022-11-14 | W03: Multi-Media Learning               |
+| 2022-11-21 | W04: Embodied Learning (VR/AR)          |
+| 2022-11-28 | W05: VR Experience                      |
+| 2022-12-05 | W06: Game-Based Learning 1              |
+| 2022-12-12 | W07: Game-Based Learning 2              |
+| 2023-01-02 | W08: Personalized and Adaptive Learning |
+| 2023-01-09 | W09: Child Development and Technology   |
+| 2023-01-16 | W10: Cloud-Based Learning 1             |
+| 2023-01-23 | W11: Cloud-Based Learning 2             |
+| 2023-01-30 | W12: Showcase Day 1                     |
+| 2023-02-06 | W13: Showcase Day 2                     |
 
 ---
 ### First, some house cleaning...

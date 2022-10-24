@@ -2,7 +2,7 @@
 title = "Week 05"
 summary = "game-based learning pt.1"
 date = "2022-05-23"
-hidden = false
+hidden = true
 type = "slide"
 theme = "serif"
 [revealOptions]
