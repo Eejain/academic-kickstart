@@ -1,5 +1,5 @@
 +++
-title = "Week 01"
+title = "Week 01 slides"
 summary = "slides for the course introduction"
 date = "2022-10-24"
 hidden = false

@@ -1,5 +1,5 @@
 +++
-title = "Week 01 pdf"
+title = "Week 01"
 description = ""
 weight = 2
 +++
