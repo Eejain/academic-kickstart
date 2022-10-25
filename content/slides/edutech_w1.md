@@ -153,9 +153,9 @@ Freelance illustrator and photographer
 
 ---
 ### Anything changed?
-- A mild example of E-learning: [Video and discussion forum](https://www.coursera.org/)
-- A more radical example: [Learning by doing](https://www.codecademy.com)
-- A new media: [Instagram Story](https://www.instagram.com/seeduniversity/)
+- Classroom in the cloud: [Video and discussion forum](https://www.coursera.org/)
+- Self-paced, learning by doing: [learn to code](https://www.codecademy.com) and [learn German](https://www.thegermanproject.com/german-lessons/introduction)
+- Learning on social media: [Instagram Story](https://www.instagram.com/seeduniversity/)
 
 ---
 ### New tech, old idea
