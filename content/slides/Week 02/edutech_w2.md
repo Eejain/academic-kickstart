@@ -1,7 +1,7 @@
 +++
 title = "Week 02 Web Slides"
 summary = "ict tool evaluation"
-date = "2022-05-02"
+date = "2022-11-07"
 hidden = false
 weight = 2
 type = "slide"
