@@ -1,8 +1,8 @@
 +++
-title = "Week 04"
+title = "Week 04 web slides"
 summary = "embodied learning"
-date = "2022-05-16"
-hidden = true
+date = "2022-11-22"
+hidden = false
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -41,6 +41,53 @@ VR, XR, MR, Metaverse?
 - XR supported social networking
 - [Introducing the Metaverse](https://www.youtube.com/watch?v=pjNI9K1D_xo)
 - [Introducing the Icelandverse](https://www.youtube.com/watch?v=enMwwQy_noI)
+
+---
+### VR the technology
+
+VR app → Game Engine → VR head-mounted device (HMD)
+
+![](/media/bodyvr1.jpg) ![](/media/hmd.jpg)
+
+---
+###  VR the experience
+
+- VR is the virtual recreation of the physical reality we live in. 
+- VR > Virtuality / Reality
+
+![](/media/vrgarden.jpg) ![](/media/vruniverse.jpg)
+
+---
+### VR > Virtuality
+
+![](/media/vdna.jpg) ![](/media/vrdna.jpg)
+
+<!-- ^ nanome -->
+
+---
+
+[Rubber hand illusion](https://youtu.be/k5c9Jb9SK58?t=38)
+
+---
+### VR > Virtuality
+
+- VR experience is "embodied" through the virtual body ("avatar")
+
+![](/media/avatar.jpg)
+
+---
+### VR > Reality
+
+![](/media/surgery.jpg) ![](/media/surgeryvr.jpg)
+
+---
+
+[VR classroom](https://mediaup.uni-potsdam.de/flash/2hhGD6ED_hi.mp4)
+
+---
+### VR > Reality
+- Controlled, standardized, individualized environment
+- Step-wise training
 
 ---
 ###  Demo: Immersive VR
