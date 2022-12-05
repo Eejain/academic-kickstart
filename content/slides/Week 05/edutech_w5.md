@@ -70,7 +70,7 @@ highlight_style = 'dracula'
 ---
 ####  Reinforcements in the game are...
  
-- Constant: every small achievement is rewarded explicitly (experience point, budge, equipment)
+- Constant: every small achievement is rewarded explicitly (experience point, badge, equipment)
 - Well-Defined: it's clear how to get the rewards
 - Varied: visual, auditory, societal...
 

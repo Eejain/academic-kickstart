@@ -78,6 +78,27 @@ The evaluation of such goals will be based on your performance in weekly reflect
     -   As you will find all the materials in our course website, I also encourage you to use online annotation tool [hypothes.is](https://web.hypothes.is/) to share your thoughts about our course slides and other contents directly on the webpage.
 
 
+## <span class="section-num">6</span> Class Schedule [^fn:3] {#class-schedule}
+
+| Dates      | Topic                                     |
+|------------|-------------------------------------------|
+| 2022-10-24 | W01: Introduction                         |
+| 2022-11-07 | W02: How to Evaluate ICT for Teaching?    |
+| 2022-11-14 | W03: Multi-Media Learning                 |
+| 2022-11-21 | W04: Embodied Learning (VR/AR)            |
+| 2022-11-28 | W05: Game-Based Learning 1                |
+| 2022-12-05 | W06: Game-Based Learning 2                |
+| 2022-12-12 | W07: Personalized and Adaptive Learning 1 |
+| 2023-01-02 | W08: Personalized and Adaptive Learning 2 |
+| 2023-01-09 | W09: Child Development and Technology     |
+| 2023-01-16 | W10: VR Experience                        |
+| 2023-01-23 | W11: Cloud-Based Learning                 |
+| 2023-01-30 | W12: Showcase Day 1                       |
+| 2023-02-06 | W13: Showcase Day 2                       |
+
+[^fn:1]: Disclaimer: The instructor reserves the right to modify the course syllabus if necessary and will make formal announcements of these changes in class and provide written notice of changes via email. Students are responsible for noting those changes upon notification.
+[^fn:2]: The course site contains outdated slides from past semesters, please pay attention to the timestamp.
+[^fn:3]: Days without Instruction: 2022-10-31 (Reformation Day), 2022-12-19 to 2022-12-30 (Christmas break)
 ## <span class="section-num">5</span> Class Policies {#class-policies}
 
 It will be important to follow a few general guidelines to ensure that our lessons run smoothly and are enjoyable for everyone.
@@ -88,24 +109,3 @@ It will be important to follow a few general guidelines to ensure that our lesso
 -   When engaging in discussions please be respectful and relevant. Being respectful includes addressing ideas offered by classmates in a constructive manner. Being relevant requires that comments made in class relate to the material in a way that enriches our learning. Everyone should and will have the chance to contribute to discussions.
 
 
-## <span class="section-num">6</span> Class Schedule [^fn:3] {#class-schedule}
-
-| Dates      | Topic                                   |
-|------------|-----------------------------------------|
-| 2022-10-24 | W01: Introduction                       |
-| 2022-11-07 | W02: How to Evaluate ICT for Teaching?  |
-| 2022-11-14 | W03: Multi-Media Learning               |
-| 2022-11-21 | W04: Embodied Learning (VR/AR)          |
-| 2022-11-28 | W05: Game-Based Learning 1              |
-| 2022-12-05 | W06: Game-Based Learning 2              |
-| 2022-12-12 | W07: Personalized and Adaptive Learning |
-| 2023-01-02 | W08: Child Development and Technology   |
-| 2023-01-09 | W09: Cloud-Based Learning 1             |
-| 2023-01-16 | W10: VR Experience                      |
-| 2023-01-23 | W11: Cloud-Based Learning 2             |
-| 2023-01-30 | W12: Showcase Day 1                     |
-| 2023-02-06 | W13: Showcase Day 2                     |
-
-[^fn:1]: Disclaimer: The instructor reserves the right to modify the course syllabus if necessary and will make formal announcements of these changes in class and provide written notice of changes via email. Students are responsible for noting those changes upon notification.
-[^fn:2]: The course site contains outdated slides from past semesters, please pay attention to the timestamp.
-[^fn:3]: Days without Instruction: 2022-10-31 (Reformation Day), 2022-12-19 to 2022-12-30 (Christmas break)
