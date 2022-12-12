@@ -1,8 +1,8 @@
 +++
-title = "Week 07"
+title = "Week 07 web slides"
 summary = "personalized and adaptive learning pt.1"
-date = "2022-06-13"
-hidden = true
+date = "2022-12-12"
+hidden = false
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -48,26 +48,31 @@ highlight_style = 'dracula'
 ###  Some interesting AI demos
 
 ---
-## Text
+## Generative Text 
 - [AI writes news](https://talktotransformer.com/)
-- [AI writes your email](https://app.flowrite.com/write)
+- [AI answers any questions](https://chat.openai.com/chat)
+
+<!-- - [AI writes your email](https://app.flowrite.com/write) -->
 
 ---
-## Graphic
-- [AI draws landscape](http://gaugan.org/gaugan2/)
-- [AI draws anything based on your text](https://openai.com/blog/dall-e/)
-- [Another competitor](https://imagen.research.google/)
-- [AI creates art](https://app.wombo.art/)
+## Generative Graphic
+<!-- - [AI draws landscape](http://gaugan.org/gaugan2/) -->
+<!-- - [AI draws anything based on your text](https://openai.com/blog/dall-e/) -->
+- [AI draws anything based on your prompt](https://www.midjourney.com/showcase/recent/)
+<!-- - https://stability.ai/blog/stable-diffusion-v2-release -->
+- [AI video](https://imagen.research.google/video/)
+<!-- - [Another competitor](https://imagen.research.google/) -->
+<!-- - [AI creates art](https://app.wombo.art/) -->
 <!-- - [Create anime styled selfies](https://waifu.lofiu.com/) -->
 <!-- - [How about oil-painting styled selfies](https://ai-art.tokyo/en/) -->
 <!-- - [Generative story](https://ai-adventure.appspot.com/) -->
 <!-- - [AI guessing memes](https://twitter.com/ResNeXtGuesser/status/1477391701807300608) -->
 <!-- - [more demos](https://www.nvidia.com/en-us/research/ai-demos/) -->
 
-
 ---
-## Voice and Sound
+## Generative Voice and Sound
 - [Deep fake voice](https://fakeyou.com/)
+- [Another highly realistic voice generator](https://play.ht/blog/introducing-truly-realistic-text-to-speech-with-emotion-and-laughter/)
 - [Generative music](https://www.nvidia.com/en-us/research/ai-art-gallery/artists/aiva/)
 
 ---
