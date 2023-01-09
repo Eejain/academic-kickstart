@@ -1,8 +1,8 @@
 +++
-title = "Week 09"
+title = "Week 09 web slides"
 summary = "Child development and technology"
-date = "2022-06-27"
-hidden = true
+date = "2023-01-09"
+hidden = false
 type = "slide"
 theme = "serif"
 [revealOptions]
