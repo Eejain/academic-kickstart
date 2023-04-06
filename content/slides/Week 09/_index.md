@@ -10,8 +10,8 @@ weight = 2
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "822cd5e811064f6290502a076b782ed7", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "edutech_w9.pdf"}},
-			metaData:{fileName: "edutech_w9.pdf"}
+			content:{location: {url: "edutech_w09.pdf"}},
+			metaData:{fileName: "edutech_w09.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
