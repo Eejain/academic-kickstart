@@ -2,7 +2,7 @@
 title = "Week 02 Web Slides"
 summary = "ict tool evaluation"
 date = "2022-11-07"
-hidden = false
+hidden = true
 weight = 2
 type = "slide"
 theme = "serif"

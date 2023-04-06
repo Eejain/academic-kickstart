@@ -2,7 +2,7 @@
 title = "Week 09 web slides"
 summary = "Child development and technology"
 date = "2023-01-09"
-hidden = false
+hidden = true
 type = "slide"
 theme = "serif"
 [revealOptions]

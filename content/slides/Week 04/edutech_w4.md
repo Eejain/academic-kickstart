@@ -2,7 +2,7 @@
 title = "Week 04 web slides"
 summary = "embodied learning"
 date = "2022-11-22"
-hidden = false
+hidden = true
 type = "slide"
 theme = "serif"
 [revealOptions]

@@ -2,7 +2,7 @@
 title = "Week 07 web slides"
 summary = "personalized and adaptive learning pt.1"
 date = "2022-12-12"
-hidden = false
+hidden = true
 type = "slide"
 theme = "serif"
 [revealOptions]

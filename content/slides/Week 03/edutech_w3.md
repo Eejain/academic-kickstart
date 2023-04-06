@@ -2,7 +2,7 @@
 title = "Week 03 web slides"
 summary = "multimedia learning"
 date = "2022-11-13"
-hidden = false
+hidden = true
 type = "slide"
 theme = "serif"
 [revealOptions]

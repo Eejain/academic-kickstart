@@ -2,7 +2,7 @@
 title = "Week 01 Web Slides"
 summary = "slides for the course introduction"
 date = "2022-10-24"
-hidden = false
+hidden = true
 weight = 1
 type = "slide"
 theme = "serif"
