@@ -1,8 +1,8 @@
 +++
 title = "Week 01 Web Slides"
 summary = "slides for the course introduction"
-date = "2022-10-24"
-hidden = true
+date = "2023-04-24"
+hidden = false
 weight = 1
 type = "slide"
 theme = "serif"
@@ -18,27 +18,26 @@ highlight_style = 'dracula'
 ###### Department Erziehungswissenschaft, University of Potsdam
 
 ---
-| Dates      | Topic                                   |
-|------------|-----------------------------------------|
-| 2022-10-24 | **W01: Introduction**                   |
-| 2022-11-07 | W02: How to Evaluate ICT for Teaching?  |
-| 2022-11-14 | W03: Multi-Media Learning               |
-| 2022-11-21 | W04: Embodied Learning (VR/AR)          |
-| 2022-11-28 | W05: VR Experience                      |
-| 2022-12-05 | W06: Game-Based Learning 1              |
-| 2022-12-12 | W07: Game-Based Learning 2              |
-| 2023-01-02 | W08: Personalized and Adaptive Learning |
-| 2023-01-09 | W09: Child Development and Technology   |
-| 2023-01-16 | W10: Cloud-Based Learning 1             |
-| 2023-01-23 | W11: Cloud-Based Learning 2             |
-| 2023-01-30 | W12: Showcase Day 1                     |
-| 2023-02-06 | W13: Showcase Day 2                     |
+
+| Week | Dates      | Topic                                              |
+|------|------------|----------------------------------------------------|
+| W01  | 2023-04-24 | Introduction and How to Evaluate ICT for Teaching? |
+| W02  | 2023-05-08 | Multi-Media Learning                               |
+| W03  | 2023-06-26 | Cloud-Based Learning                               |
+| W04  | 2023-06-05 | Embodied Learning with XR 1                        |
+| W05  | 2023-06-12 | Embodied Learning with XR 2                        |
+| W06  | 2023-06-19 | Gamified Learning 1                                |
+| W07  | 2023-05-15 | Gamified Learning 2                                |
+| W08  | 2023-07-03 | Personalized Learning with AI 1                    |
+| W09  | 2023-06-26 | Personalized Learning with AI 2                    |
+| W10  | 2023-07-17 | Showcase Day 1                                     |
+| W11  | 2023-07-24 | Showcase Day 2                                     |
 
 ---
 ### First, some house cleaning...
 - [Course site](https://edutech.netlify.com/)
 - [Syllabus](https://edutech.netlify.app/post/edutech_syllabus/)  
-- [Join online annotation club](https://hypothes.is/groups/Lj6jaX9r/edutech)
+- [Optional: join online annotation club](https://hypothes.is/groups/Lj6jaX9r/edutech)
 
 
 ---
@@ -59,9 +58,9 @@ Department of Psychology, Beijing Normal University
 
 Combined Program in Education and Psychology, University of Michigan
 
-##### *Potsdam, Brandenburg, Germany*
+##### *Potsdam & Kiel, Germany*
 
-Erziehungswissenschaft, Bildungswissenschaften, Universität Potsdam
+Department Erziehungswissenschaft, Uni-Potsdam/Kiel 
 
 ---
 ### Inside Academia
@@ -172,7 +171,6 @@ Freelance illustrator and photographer
 - Knowing how, but more importantly, knowing why
 - Use with confidence
 - Topics: multi-media learning, game-based learning, embodied learning, personalized and adaptive leanring, child development and technology, cloud-baased learning
-
 
 ---
 ### Any questions about this course?
