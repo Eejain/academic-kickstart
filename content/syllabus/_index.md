@@ -86,15 +86,15 @@ It will be important to follow a few general guidelines to ensure that our lesso
 |------|------------|----------------------------------------------------|
 | W01  | 2023-04-24 | Introduction and How to Evaluate ICT for Teaching? |
 | W02  | 2023-05-08 | Multi-Media Learning                               |
-| W03  | 2023-06-26 | Cloud-Based Learning                               |
-| W04  | 2023-06-05 | Embodied Learning with XR 1                        |
-| W05  | 2023-06-12 | Embodied Learning with XR 2                        |
-| W06  | 2023-06-19 | Gamified Learning 1                                |
-| W07  | 2023-05-15 | Gamified Learning 2                                |
-| W08  | 2023-07-03 | Personalized Learning with AI 1                    |
-| W09  | 2023-06-26 | Personalized Learning with AI 2                    |
-| W10  | 2023-07-17 | Showcase Day 1                                     |
-| W11  | 2023-07-24 | Showcase Day 2                                     |
+| W03  | 2023-05-15 | Cloud-Based Learning                               |
+| W04  | 2023-05-22 | Embodied Learning with XR 1                        |
+| W05  | 2023-06-05 | Embodied Learning with XR 2                        |
+| W06  | 2023-06-12 | Gamified Learning 1                                |
+| W07  | 2023-06-19 | Gamified Learning 2                                |
+| W08  | 2023-06-26 | Personalized Learning with AI 1                    |
+| W09  | 2023-07-03 | Personalized Learning with AI 2                    |
+| W10  | 2023-07-10 | Showcase Day 1                                     |
+| W11  | 2023-07-17 | Showcase Day 2                                     |
 
 [^fn:1]: Disclaimer: The instructor reserves the right to modify the course syllabus if necessary and will make formal announcements of these changes in class and provide written notice of changes via email. Students are responsible for noting those changes upon notification.
 [^fn:2]: The course site may contain outdated slides from past semesters, please pay attention to the timestamp.
