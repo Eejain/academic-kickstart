@@ -1,8 +1,8 @@
 +++
 title = "Week 02 Web Slides"
 summary = "ict tool evaluation"
-date = "2022-11-07"
-hidden = true
+date = "2023-05-08"
+hidden = false
 weight = 2
 type = "slide"
 theme = "serif"
@@ -21,24 +21,6 @@ highlight_style = 'dracula'
 ---
 ### First, some house cleaning...
 - Any remaining questions about the [syllabus](https://edutech.netlify.app/post/edutech_syllabus/)?
-- [Course site](https://edutech.netlify.com/)
-
----
-| Dates      | Topic                                   |
-|------------|-----------------------------------------|
-| 2022-10-24 | **W01: Introduction**                   |
-| 2022-11-07 | W02: How to Evaluate ICT for Teaching?  |
-| 2022-11-14 | W03: Multi-Media Learning               |
-| 2022-11-21 | W04: Embodied Learning (VR/AR)          |
-| 2022-11-28 | W05: Game-Based Learning 1              |
-| 2022-12-05 | W06: Game-Based Learning 2              |
-| 2022-12-12 | W07: Personalized and Adaptive Learning |
-| 2023-01-02 | W08: Child Development and Technology   |
-| 2023-01-09 | W09: Cloud-Based Learning 1             |
-| 2023-01-16 | W10: VR Experience                      |
-| 2023-01-23 | W11: Cloud-Based Learning 2             |
-| 2023-01-30 | W12: Showcase Day 1                     |
-| 2023-02-06 | W13: Showcase Day 2                     |
 
 ---
 ### What is ICT?
@@ -61,6 +43,7 @@ highlight_style = 'dracula'
 <img src="/media/googlsearchresultfortools.jpg" width="400"/>
 
 <!-- hoping for a sighpost when we needed it the most is not a good solution for solving problems, instead we should prepare a toolbox beforehand  -->
+
 ---
 ### Prepare a toolbox beforehand!
 - All tools have learning curves, do your preparation early
@@ -113,7 +96,7 @@ highlight_style = 'dracula'
 
 ---
 ### Example of using backward design
-- I want students to be able to memorize molecule structure  
+- I want students to be able to memorize molecule structure 
 - This tool should help them to reconstruct key elements in the structure
 - Therefore, it should have the following feature:
     - interactive 3D modeling (to reconstruct)
@@ -159,9 +142,9 @@ highlight_style = 'dracula'
 
 ---
 ### Resources
-- A good example of ICT showcase: https://blogs.umass.edu/onlinetools/
-- A data base for edtech tools: https://database.edtechhub.org/tools/
-- Additional reading: https://edtechbooks.org/digitaltoolsapps/teachingwithdigital
+- [A good example of ICT showcase](https://blogs.umass.edu/onlinetools/)
+- [A data base for edtech tools](https://database.edtechhub.org/tools/)
+- [Additional reading](https://edtechbooks.org/digitaltoolsapps/teachingwithdigital)
 - Don't overwhelm yourself, think about backward design :)
 
 
