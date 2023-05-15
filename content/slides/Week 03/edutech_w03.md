@@ -1,8 +1,8 @@
 +++
 title = "Week 03 web slides"
 summary = "multimedia learning"
-date = "2022-11-13"
-hidden = true
+date = "2023-05-15"
+hidden = false
 type = "slide"
 theme = "serif"
 [revealOptions]
