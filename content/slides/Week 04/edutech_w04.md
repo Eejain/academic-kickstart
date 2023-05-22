@@ -1,8 +1,8 @@
 +++
 title = "Week 04 web slides"
-summary = "embodied learning"
-date = "2022-11-22"
-hidden = true
+summary = "cloud based learning"
+date = "2023-05-22"
+hidden = false
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -11,106 +11,104 @@ highlight_style = 'dracula'
 +++
 
 ### *Education on the Horizon: Teaching and Learning with Technology*
-## Week 4: Embodied Learning
+## Week 4:  Cloud-based Learning
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
 
 ---
-### Clarification of Terms
-VR, XR, MR, Metaverse?
-![](/media/vr2.jpg)
+## ["Classroom in the air", old concept in the new era](https://www.youtube.com/watch?v=6NfQDnVLZSA)
 
 ---
-### Virtuality vs. Reality
-- Virtuality is commonly regarded as a self-consistent, fully synthetic world that doesn't have to follow the laws of physics of real world. 
-- Virtuality and reality are not opposites, but more like two ends of a continuum
+###  Terminologies
+- Webinar: web-based seminar in video-conferencing software, not free and open to all
+- MOOC: Massive Open Online Course, free and open
+    + xMOOC: eXtended Massive Open Online Course, e.g., edX, Coursera, and Udacity
+    + cMOOC: Connectivist Massive Open Online Course
+
+ 
+<!--  xMOOCs are based on traditional university courses. reach larger group of students 
+Rather than being delivered by an individual instructor, as in traditional university courses, cMOOCs involve groups of people learning together.
+Blogs
+Learning communities
+Social media platforms
+-->
 
 ---
-###  Mixed Reality (MR)
-![](/media/RV.jpg)
-
-- Real and virtual world objects are presented and experienced together within a single display.
-
----
-###  Extended Reality (XR)
-- An emerging umbrella term for all the immersive technologies, the ones we already have today plus those that are still to be created. 
+###  What do they have in common?
+- Instruction are cloud-based: information stored and transmitted through Internet 
+- Interactions are also cloud-based
 
 ---
-###  Metaverse
-- XR supported social networking
-- [Introducing the Metaverse](https://www.youtube.com/watch?v=pjNI9K1D_xo)
-- [Introducing the Icelandverse](https://www.youtube.com/watch?v=enMwwQy_noI)
+###  Demos: webinar
+- [Webinars from University of Notre Dame](https://summeronline.nd.edu/)
+- [Webinars from Uni Potsdam](https://courses.educalliance.eu/)
+    + free, but only for currently enrolled students, e.g., [EDUC Alliance](https://educalliance.eu/)
+- [Webinars by Harvard Business School](https://online.hbs.edu/)
+    + for everyone, but not free
 
 ---
-### VR the technology
-
-VR app → Game Engine → VR head-mounted device (HMD)
-
-![](/media/bodyvr1.jpg) ![](/media/hmd.jpg)
-
----
-###  VR the experience
-
-- VR is the virtual recreation of the physical reality we live in. 
-- VR > Virtuality / Reality
-
-![](/media/vrgarden.jpg) ![](/media/vruniverse.jpg)
+###  Demos: Other popular cloud-based learning platform
+- [Master Class](https://www.masterclass.com/): for-profit, learn from top professionals, short-format
+- [Skillshare](https://www.skillshare.com/): for-profit, learn from individuals, short-format
+- [Lynda.com/LinkedinLearn](https://www.linkedin.com/learning/): for-profit, professional development
+- Again, they are not free and open to all
 
 ---
-### VR > Virtuality
-
-![](/media/vdna.jpg) ![](/media/vrdna.jpg)
-
-<!-- ^ nanome -->
-
----
-
-[Rubber hand illusion](https://youtu.be/k5c9Jb9SK58?t=38)
+###  Demos: xMOOC
+- [Coursera](https://www.coursera.org/): a for-profit platform developed by Stanford University, courses are often adapted from existing university courses, offer degrees and certificates
+- [edX](https://www.edx.org/school/smithsonianx): a non-profit platform developed by MIT and Harvard University in 2012
+- [FutureLearn](https://www.futurelearn.com/):  a non-profit platform developed by the UK’s Open University in 2012, aiming at UK audiences 
+- [Udacity](https://www.udacity.com/): a for-profit platform that focused on technology and science courses
+- [EU Academy](https://academy.europa.eu)
+- [Open HPI](https://open.hpi.de/)
 
 ---
-### VR > Virtuality
-
-- VR experience is "embodied" through the virtual body ("avatar")
-
-![](/media/avatar.jpg)
+### Demos: cMOOC
+- [Teach-Outs](https://ai.umich.edu/our-work/teach-outs/): non-profit, hybrid workshop that centers around timely topics
 
 ---
-### VR > Reality
+### MOOC as teaching material
+- [Khan Academy](https://www.khanacademy.org/): non-profit, basic STEM courses for lower grades
+- Watch Khan academy's creator talking about why he created this platform: https://www.youtube.com/watch?v=dCxGAvSH-cw  
 
-![](/media/surgery.jpg) ![](/media/surgeryvr.jpg)
-
----
-
-[VR classroom](https://mediaup.uni-potsdam.de/flash/2hhGD6ED_hi.mp4)
+<!-- Khan academy's creator: https://www.youtube.com/watch?v=dCxGAvSH-cw --> 
 
 ---
-### VR > Reality
-- Controlled, standardized, individualized environment
-- Step-wise training
+### The larger picture here 
+- [Open Educational Resources (OER)](https://www.unesco.org/en/open-educational-resources) 
+> learning, teaching and research materials in any format and medium that reside in the public domain or are under copyright that have been released under an open license, that permit no-cost access, re-use, re-purpose, adaptation and redistribution by others.
+
+![](/media/oer_logo_EN_1.png)
+---
+### Who are the learners
+- College students
+- Professionals who want to level up to the next stage in their careers
+- Enthusiasts for different topics
+- Any students that have space/time constraints: [School of the Air](https://www.youtube.com/watch?v=krci8b3qH0I)
+
+<!-- https://www.assoa.nt.edu.au/the-school/our-school/ -->
 
 ---
-###  Demo: Immersive VR
-- multi-sensory realistic experience inside an virtual environment
-- ideal for training situational, adaptive, and complex skills
-
-![](/media/vr_training.png)
-
----
-###  Demo: 360 video
-- [360 video](https://artsandculture.google.com/project/360-videos)
+###  Advantage
+- freedom from space and time limitations
+- self-pacing
+- free and open for all, reach learners who are previously not accessible 
+- [Student's perspective](https://www.youtube.com/watch?v=5JKgUoY9pTg)
 
 ---
-###  Demo: Augmented reality
-- augmenting a real world experience with virtual objects. 
-    + [Learning to draw with AR](https://youtu.be/pNkG5HN4bgY?t=462)
+###  Hypes
+![](/media/moochype.jpg)
 
 ---
-###  Demo: Augmented virtuality
-- augmenting an virtual experience with real-life objects. 
-    - [Learning with Google Earth](https://www.google.com/earth/education/)
-
-
-
-
-
+###  Criticisms 
+- High drop-out rate
+- "Matthew effect": the rich get richer and the poor get poorer. 
+    - lacks support in learning strategy
+    - optional reading: [The Wolf in Sheep’s Clothing: The Matthew Effect in Online Education](https://hipatiapress.com/hpjournals/index.php/rise/article/view/789)
+    
+---
+### Bonus: Cloud-based Teacher Education
+- [Teach-Now](https://teach-now.edu/): getting a teaching certificate through online training
+- What do you think of this certification program? 
+- What were your general impressions about online learning in the teacher education program? 
