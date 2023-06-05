@@ -65,6 +65,7 @@ The evaluation of such goals will be based on your performance in weekly reflect
     -   Everyone will [pick one category of ICT tools](https://bit.ly/3Eri66N) they are most interested in using (<https://bit.ly/3Eri66N>). You will work together with other classmates who's also interested in this category of tools.
     -   During the semester, you will collaboratively gather and evaluate the ICT tools according to a standardized framework.
     -   At the end of the semester, you will present your selection and evaluation of ICT tools as a group. The presentation can take a variety of formats, including (a) regular slides presentation; (b)hands-on workshop; (c) simulation of real lesson; or any otherformats you find appropriate.
+    - Each presentation should take 20--25 minutes
     -   We'll introduce this task further on the second week.
 
 -   **Bonus: Annotate the Course Website (no points, but more fun)**
