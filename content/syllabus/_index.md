@@ -88,9 +88,9 @@ It will be important to follow a few general guidelines to ensure that our lesso
 | W02  | 2023-05-08 | How to Evaluate ICT for Teaching? |
 | W03  | 2023-05-15 | Multi-Media Learning              |
 | W04  | 2023-05-22 | Cloud-Based Learning              |
-| W05  | 2023-06-05 | Embodied Learning with XR         |
-| W06  | 2023-06-12 | Gamified Learning 1               |
-| W07  | 2023-06-19 | Gamified Learning 2               |
+| W05  | 2023-06-05 | Gamified Learning 1               |
+| W06  | 2023-06-12 | Gamified Learning 2               |
+| W07  | 2023-06-19 | Embodied Learning with XR         |
 | W08  | 2023-06-26 | Personalized Learning with AI 1   |
 | W09  | 2023-07-03 | Personalized Learning with AI 2   |
 | W10  | 2023-07-10 | Showcase Day 1                    |

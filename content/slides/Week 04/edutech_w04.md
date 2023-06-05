@@ -62,6 +62,7 @@ Social media platforms
 - [Udacity](https://www.udacity.com/): a for-profit platform that focused on technology and science courses
 - [EU Academy](https://academy.europa.eu)
 - [Open HPI](https://open.hpi.de/)
+- [Wikiuniversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
 
 ---
 ### Demos: cMOOC
