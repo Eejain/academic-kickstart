@@ -1,8 +1,8 @@
 +++
 title = "Week 06 web slides"
 summary = "game-based learning pt.2"
-date = "2022-12-05"
-hidden = true
+date = "2023-06-12"
+hidden = false
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -49,7 +49,7 @@ highlight_style = 'dracula'
 ---
 ###  Autonomy
 - In game: usually we choose what game we want to play
-- Ideal learning environment: the learner seeing himself or herself as the primary locus of control'
+- Ideal learning environment: the learner seeing himself or herself as the primary locus of control
 
 ---
 ###  Autonomy: example
@@ -106,7 +106,6 @@ highlight_style = 'dracula'
 - In game: grow together with the community
 - Ideal learning environment: learners feel connected to their teachers and peers
 - Can you think of some strategies of connecting students and instructors during online learning?
-
 
 ---
 ###  Gameful learning environment: example
