@@ -1,8 +1,8 @@
 +++
 title = "Week 07 web slides"
-summary = "personalized and adaptive learning pt.1"
-date = "2022-12-12"
-hidden = true
+summary = "embodied learning"
+date = "2023-06-19"
+hidden = false
 type = "slide"
 theme = "serif"
 [revealOptions]
@@ -11,72 +11,107 @@ highlight_style = 'dracula'
 +++
 
 ### *Education on the Horizon: Teaching and Learning with Technology*
-## Week 7: Personalized and Adaptive Learning Pt. 1
+## Week 7: Embodied Learning with XR
 ===
 #### Dr. Yizhen (Eejain) Huang
 ###### Department Erziehungswissenschaft, University of Potsdam
 
 ---
-###  Have you experienced these in your everyday life?
-- YouTube suggests new videos based on what you have watched
-- Your smart phone can automatically create an album with photos with your face in it
-- You have to prove "I'm not a robot" during login
-- These are possible because of “artificial intelligence” (AI)
-
-![](/media/captcha.jpg)
+### Clarification of Terms
+VR, XR, MR, Metaverse?
+![](/media/vr2.jpg)
 
 ---
-###  What is artificial intelligence (AI)?
-- AI are intelligent computer programs that mimic the problem-solving and decision-making capabilities of the human mind 
-- Traditional computer program: Input → Output is predetermined
-- AI: Input → Output is conditional
-    - training data → algorithm → real data
+### Virtuality vs. Reality
+- Virtuality is commonly regarded as a self-consistent, fully synthetic world that doesn't have to follow the laws of physics of real world. 
+- Virtuality and reality are not opposites, but more like two ends of a continuum
 
 ---
-###  Key features of AI
-- Autonomy: The ability to perform tasks in complex environments without constant guidance by a user.
-- Adaptivity: The ability to improve performance by learning from experience.
+###  Mixed Reality (MR)
+![](/media/RV.jpg)
+
+- Real and virtual world objects are presented and experienced together within a single display.
+- [Apple Vision Pro](https://www.youtube.com/watch?v=TX9qSaGXFyg&t=99s)
 
 ---
-###  Why is it "intelligent"?
-- Learning is the acquisition of associations: what input leads to what output 
-- AI can make inferences about new inputs based on learned associations
-- Therefore AI is capable of "learning" based on "past experience", similar to human decision making
-- [Computer Scientist Explains Machine Learning](https://www.youtube.com/watch?v=5q87K1WaoFI)
+###  Extended Reality (XR)
+- An emerging umbrella term for all the immersive technologies, the ones we already have today plus those that are still to be created. 
 
 ---
-###  Some interesting AI demos
+###  Metaverse
+- XR-supported social networking
+- [Introducing the Metaverse](https://www.youtube.com/watch?v=pjNI9K1D_xo)
+- [Introducing the Icelandverse](https://www.youtube.com/watch?v=enMwwQy_noI)
 
 ---
-## Generative Text 
-- [AI writes news](https://talktotransformer.com/)
-- [AI answers any questions](https://chat.openai.com/chat)
+### VR the technology
 
-<!-- - [AI writes your email](https://app.flowrite.com/write) -->
+VR app → Game Engine → VR head-mounted device (HMD)
 
----
-## Generative Graphic
-<!-- - [AI draws landscape](http://gaugan.org/gaugan2/) -->
-<!-- - [AI draws anything based on your text](https://openai.com/blog/dall-e/) -->
-- [AI draws anything based on your prompt](https://www.midjourney.com/showcase/recent/)
-<!-- - https://stability.ai/blog/stable-diffusion-v2-release -->
-- [AI video](https://imagen.research.google/video/)
-<!-- - [Another competitor](https://imagen.research.google/) -->
-<!-- - [AI creates art](https://app.wombo.art/) -->
-<!-- - [Create anime styled selfies](https://waifu.lofiu.com/) -->
-<!-- - [How about oil-painting styled selfies](https://ai-art.tokyo/en/) -->
-<!-- - [Generative story](https://ai-adventure.appspot.com/) -->
-<!-- - [AI guessing memes](https://twitter.com/ResNeXtGuesser/status/1477391701807300608) -->
-<!-- - [more demos](https://www.nvidia.com/en-us/research/ai-demos/) -->
+![](/media/bodyvr1.jpg) ![](/media/hmd.jpg)
 
 ---
-## Generative Voice and Sound
-- [Deep fake voice](https://fakeyou.com/)
-- [Another highly realistic voice generator](https://play.ht/blog/introducing-truly-realistic-text-to-speech-with-emotion-and-laughter/)
-- [Generative music](https://www.nvidia.com/en-us/research/ai-art-gallery/artists/aiva/)
+###  VR the experience
+
+- VR is the virtual recreation of the physical reality we live in. 
+- VR > Virtuality / Reality
+
+![](/media/vrgarden.jpg) ![](/media/vruniverse.jpg)
 
 ---
-## Moving AI
-- [AI talk to human](https://youtu.be/BpnnD_0IlbE?t=380)
-- [AI talk to AI](https://www.youtube.com/watch?v=jz78fSnBG0s)
+### VR > Virtuality
+
+![](/media/vdna.jpg) ![](/media/vrdna.jpg)
+
+<!-- ^ nanome -->
+
+---
+
+[Rubber hand illusion](https://youtu.be/k5c9Jb9SK58?t=38)
+
+---
+### VR > Virtuality
+
+- VR experience is "embodied" through the virtual body ("avatar")
+
+![](/media/avatar.jpg)
+
+---
+### VR > Reality
+
+![](/media/surgery.jpg) ![](/media/surgeryvr.jpg)
+
+---
+
+[VR classroom](https://mediaup.uni-potsdam.de/flash/2hhGD6ED_hi.mp4)
+
+---
+### VR > Reality
+- Controlled, standardized, individualized environment
+- Step-wise training
+
+---
+###  Demo: Immersive VR
+- multi-sensory realistic experience inside an virtual environment
+- ideal for training situational, adaptive, and complex skills
+
+![](/media/vr_training.png)
+
+---
+###  Demo: 360 video
+- [360 video](https://artsandculture.google.com/project/360-videos)
+
+---
+###  Demo: Augmented reality
+- augmenting a real world experience with virtual objects. 
+    + [Learning to draw with AR](https://youtu.be/pNkG5HN4bgY?t=462)
+
+---
+###  Demo: Augmented virtuality
+- augmenting an virtual experience with real-life objects. 
+    - [Learning with Google Earth](https://www.google.com/earth/education/)
+
+
+
+
 
