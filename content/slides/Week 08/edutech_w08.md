@@ -52,7 +52,7 @@ highlight_style = 'dracula'
 ### What is ML?
 - Machine learning (ML) is a subfield of AI, which deals with building systems that improve their performance in a given task with more and more experience or data. 
 
-![left fit](/Users/naskuv/Library/CloudStorage/OneDrive-SharedLibraries-UniversitätPotsdam/Dirk Richter - Eejain/OtherProjects/Workshop/ai_taxonomy.png)
+![](/Users/naskuv/Library/CloudStorage/OneDrive-SharedLibraries-UniversitätPotsdam/Dirk Richter - Eejain/OtherProjects/Workshop/ai_taxonomy.png)
 
 
 ---
@@ -61,9 +61,10 @@ highlight_style = 'dracula'
 - unsupervised learning: use unlabeled data to reveal hidden structures and generate output similar to input, e.g., write in the tone of Shakespeare, generate image based on text prompt  
 
 ---
-![left](/Users/naskuv/Library/CloudStorage/OneDrive-SharedLibraries-UniversitätPotsdam/Dirk Richter - Eejain/OtherProjects/Workshop/ai_face1.png)
+![](/Users/naskuv/Library/CloudStorage/OneDrive-SharedLibraries-UniversitätPotsdam/Dirk Richter - Eejain/OtherProjects/Workshop/ai_face1.png)
 
-![right fit](/Users/naskuv/Library/CloudStorage/OneDrive-SharedLibraries-UniversitätPotsdam/Dirk Richter - Eejain/OtherProjects/Workshop/ai_face2.png)
+---
+![](/Users/naskuv/Library/CloudStorage/OneDrive-SharedLibraries-UniversitätPotsdam/Dirk Richter - Eejain/OtherProjects/Workshop/ai_face2.png)
 
 ---
 ###  Some interesting AI demos
