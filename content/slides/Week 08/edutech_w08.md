@@ -61,9 +61,11 @@ highlight_style = 'dracula'
 - unsupervised learning: use unlabeled data to reveal hidden structures and generate output similar to input, e.g., write in the tone of Shakespeare, generate image based on text prompt  
 
 ---
+
 ![](/Users/naskuv/Library/CloudStorage/OneDrive-SharedLibraries-UniversitätPotsdam/Dirk Richter - Eejain/OtherProjects/Workshop/ai_face1.png)
 
 ---
+
 ![](/Users/naskuv/Library/CloudStorage/OneDrive-SharedLibraries-UniversitätPotsdam/Dirk Richter - Eejain/OtherProjects/Workshop/ai_face2.png)
 
 ---
